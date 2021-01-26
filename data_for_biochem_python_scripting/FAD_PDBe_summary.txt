@@ -1,0 +1,301 @@
+
+FAD : Summary
+Code
+	FAD
+One-letter code
+	X
+Molecule name
+	FLAVIN-ADENINE DINUCLEOTIDE
+Systematic names
+	
+Program	Version	Name
+ACDLabs 	10.04 	[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl (2R,3S,4S)-5-(7,8-dimethyl-2,4-dioxo-3,4-dihydrobenzo[g]pteridin-10(2H)-yl)-2,3,4-trihydroxypentyl dihydrogen diphosphate (non-preferred name)
+OpenEye OEToolkits 	1.5.0 	[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl [[(2R,3S,4S)-5-(7,8-dimethyl-2,4-dioxo-benzo[g]pteridin-10-yl)-2,3,4-trihydroxy-pentoxy]-hydroxy-phosphoryl] hydrogen phosphate
+Formula
+	C27 H33 N9 O15 P2
+Formal charge
+	0
+Molecular weight
+	785.55 Da
+SMILES
+	
+Type	Program	Version	Descriptor
+SMILES 	ACDLabs 	10.04 	O=C2C3=Nc1cc(c(cc1N(C3=NC(=O)N2)CC(O)C(O)C(O)COP(=O)(O)OP(=O)(O)OCC6OC(n5cnc4c(ncnc45)N)C(O)C6O)C)C
+SMILES 	CACTVS 	3.341 	Cc1cc2N=C3C(=O)NC(=O)N=C3N(C[CH](O)[CH](O)[CH](O)CO[P](O)(=O)O[P](O)(=O)OC[CH]4O[CH]([CH](O)[CH]4O)n5cnc6c(N)ncnc56)c2cc1C
+SMILES 	OpenEye OEToolkits 	1.5.0 	Cc1cc2c(cc1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)n5cnc6c5ncnc6N)O)O)O)O)O
+Canonical SMILES 	CACTVS 	3.341 	Cc1cc2N=C3C(=O)NC(=O)N=C3N(C[C@H](O)[C@H](O)[C@H](O)CO[P@](O)(=O)O[P@@](O)(=O)OC[C@H]4O[C@H]([C@H](O)[C@@H]4O)n5cnc6c(N)ncnc56)c2cc1C
+Canonical SMILES 	OpenEye OEToolkits 	1.5.0 	Cc1cc2c(cc1C)N(C3=NC(=O)NC(=O)C3=N2)C[C@@H]([C@@H]([C@@H](CO[P@@](=O)(O)O[P@](=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)n5cnc6c5ncnc6N)O)O)O)O)O
+IUPAC InChI
+	InChI=1S/C27H33N9O15P2/c1-10-3-12-13(4-11(10)2)35(24-18(32-12)25(42)34-27(43)33-24)5-14(37)19(39)15(38)6-48-52(44,45)51-53(46,47)49-7-16-20(40)21(41)26(50-16)36-9-31-17-22(28)29-8-30-23(17)36/h3-4,8-9,14-16,19-21,26,37-41H,5-7H2,1-2H3,(H,44,45)(H,46,47)(H2,28,29,30)(H,34,42,43)/t14-,15+,16+,19-,20+,21+,26+/m0/s1
+IUPAC InChI key
+	VWWQXMAJTJZDQX-UYBVJOGSSA-N
+	
+FAD
+
+wwPDB Information
+Atom count
+	86 (53 without Hydrogen)
+Polymer type
+	Bound ligand
+Type description
+	NON-POLYMER
+Type code
+	HETAIN
+Is modified
+	No
+Standard parent
+	Not Assigned
+Defined at
+	1999-07-08
+Last modified at
+	2011-06-04
+Status
+	Released
+Obsoleted
+	Not Assigned
+
+	
+
+
+FAD : Atoms of Molecule
+Total Number of Atoms: 86
+Record 	Atom Name 	Symbol 	PDB Name 	Stereochemistry 	Is Aromatic 	Is Leaving Atom 	Charge 	X-Coordinate 	Y-Coordinate 	Z-Coordinate
+1 	C1' 	C 	C1* 	N 	N 	N 	0 	-0.168 	-1.093 	6.668
+2 	C10 	C 	C10 	N 	N 	N 	0 	-0.649 	0.301 	8.634
+3 	C1B 	C 	AC1* 	R 	N 	N 	0 	-0.518 	0.541 	-8.692
+4 	C2 	C 	C2 	N 	N 	N 	0 	-2.802 	1.033 	9.07
+5 	C2' 	C 	C2* 	S 	N 	N 	0 	-0.07 	-0.153 	5.464
+6 	C2A 	C 	AC2 	N 	Y 	N 	0 	1.827 	1.878 	-12.277
+7 	C2B 	C 	AC2* 	R 	N 	N 	0 	-1.277 	-0.748 	-9.095
+8 	C3' 	C 	C3* 	S 	N 	N 	0 	-0.511 	-0.895 	4.201
+9 	C3B 	C 	AC3* 	S 	N 	N 	0 	-2.476 	-0.741 	-8.111
+10 	C4 	C 	C4 	N 	N 	N 	0 	-1.197 	1.734 	10.634
+11 	C4' 	C 	C4* 	R 	N 	N 	0 	-0.413 	0.044 	2.997
+12 	C4A 	C 	AC4 	N 	Y 	N 	0 	1.462 	0.914 	-10.223
+13 	C4B 	C 	AC4* 	R 	N 	N 	0 	-2.009 	0.169 	-6.959
+14 	C4X 	C 	C4A 	N 	N 	N 	0 	-0.184 	1.003 	9.842
+15 	C5' 	C 	C5* 	N 	N 	N 	0 	-0.854 	-0.697 	1.734
+16 	C5A 	C 	AC5 	N 	Y 	N 	0 	2.83 	0.606 	-10.136
+17 	C5B 	C 	AC5* 	N 	N 	N 	0 	-2.036 	-0.605 	-5.64
+18 	C5X 	C 	C5A 	N 	Y 	N 	0 	1.969 	0.295 	9.446
+19 	C6 	C 	C6 	N 	Y 	N 	0 	3.324 	0.27 	9.833
+20 	C6A 	C 	AC6 	N 	Y 	N 	0 	3.663 	0.979 	-11.205
+21 	C7 	C 	C7 	N 	Y 	N 	0 	4.232 	-0.412 	9.082
+22 	C7M 	C 	C7M 	N 	N 	N 	0 	5.679 	-0.434 	9.502
+23 	C8 	C 	C8 	N 	Y 	N 	0 	3.841 	-1.085 	7.93
+24 	C8A 	C 	AC8 	N 	Y 	N 	0 	1.889 	-0.118 	-8.322
+25 	C8M 	C 	C8M 	N 	N 	N 	0 	4.866 	-1.832 	7.116
+26 	C9 	C 	C9 	N 	Y 	N 	0 	2.523 	-1.082 	7.529
+27 	C9A 	C 	C9A 	N 	Y 	N 	0 	1.572 	-0.393 	8.278
+28 	H1'1 	H 	1H1* 	N 	N 	N 	0 	0.478 	-1.955 	6.508
+29 	H1'2 	H 	2H1* 	N 	N 	N 	0 	-1.198 	-1.428 	6.784
+30 	H1B 	H 	AH1* 	N 	N 	N 	0 	-0.978 	1.416 	-9.15
+31 	H2' 	H 	H2* 	N 	N 	N 	0 	0.959 	0.182 	5.348
+32 	H2A 	H 	AH2 	N 	N 	N 	0 	1.427 	2.391 	-13.139
+33 	H2B 	H 	AH2* 	N 	N 	N 	0 	-0.653 	-1.63 	-8.944
+34 	H3' 	H 	H3* 	N 	N 	N 	0 	-1.541 	-1.231 	4.317
+35 	H3B 	H 	AH3* 	N 	N 	N 	0 	-2.674 	-1.748 	-7.744
+36 	H4' 	H 	H4* 	N 	N 	N 	0 	0.616 	0.379 	2.881
+37 	H4B 	H 	AH4* 	N 	N 	N 	0 	-2.659 	1.041 	-6.89
+38 	H5'1 	H 	1H5* 	N 	N 	N 	0 	-0.207 	-1.56 	1.575
+39 	H5'2 	H 	2H5* 	N 	N 	N 	0 	-1.884 	-1.033 	1.85
+40 	H51A 	H 	AH51 	N 	N 	N 	0 	-1.374 	-1.468 	-5.712
+41 	H52A 	H 	AH52 	N 	N 	N 	0 	-3.052 	-0.942 	-5.437
+42 	H6 	H 	H6 	N 	N 	N 	0 	3.641 	0.792 	10.723
+43 	H61A 	H 	AH61 	N 	N 	N 	0 	5.582 	0.96 	-11.922
+44 	H62A 	H 	AH62 	N 	N 	N 	0 	5.403 	0.239 	-10.415
+45 	H8A 	H 	AH8 	N 	N 	N 	0 	1.754 	-0.577 	-7.354
+46 	H9 	H 	H9 	N 	N 	N 	0 	2.228 	-1.609 	6.634
+47 	HM71 	H 	1HM7 	N 	N 	N 	0 	5.853 	-1.285 	10.162
+48 	HM72 	H 	2HM7 	N 	N 	N 	0 	6.313 	-0.523 	8.62
+49 	HM73 	H 	3HM7 	N 	N 	N 	0 	5.919 	0.488 	10.03
+50 	HM81 	H 	1HM8 	N 	N 	N 	0 	5.285 	-1.167 	6.361
+51 	HM82 	H 	2HM8 	N 	N 	N 	0 	5.662 	-2.185 	7.772
+52 	HM83 	H 	3HM8 	N 	N 	N 	0 	4.393 	-2.684 	6.628
+53 	HN3 	H 	HN3 	N 	N 	N 	0 	-3.164 	2.169 	10.679
+54 	HO2' 	H 	*HO2 	N 	N 	N 	0 	-1.819 	0.637 	5.771
+55 	HO2A 	H 	AHO2 	N 	N 	N 	0 	-2.19 	-1.501 	-10.636
+56 	HO3' 	H 	*HO3 	N 	N 	N 	0 	1.237 	-1.686 	3.894
+57 	HO3A 	H 	AHO3 	N 	N 	N 	0 	-3.845 	-0.782 	-9.49
+58 	HO4' 	H 	*HO4 	N 	N 	N 	0 	-2.162 	0.834 	3.304
+59 	HOA2 	H 	2HOA 	N 	N 	N 	0 	0.212 	-1.564 	-3.531
+60 	HOP2 	H 	2HOP 	N 	N 	N 	0 	-3.296 	-0.367 	-0.351
+61 	N1 	N 	N1 	N 	N 	N 	0 	-1.933 	0.36 	8.321
+62 	N10 	N 	N10 	N 	N 	N 	0 	0.253 	-0.382 	7.877
+63 	N1A 	N 	AN1 	N 	Y 	N 	0 	3.119 	1.607 	-12.242
+64 	N3 	N 	N3 	N 	N 	N 	0 	-2.474 	1.701 	10.185
+65 	N3A 	N 	AN3 	N 	Y 	N 	0 	1.01 	1.549 	-11.299
+66 	N5 	N 	N5 	N 	N 	N 	0 	1.078 	0.968 	10.185
+67 	N6A 	N 	AN6 	N 	N 	N 	0 	5.018 	0.698 	-11.178
+68 	N7A 	N 	AN7 	N 	Y 	N 	0 	3.023 	-0.024 	-8.953
+69 	N9A 	N 	AN9 	N 	Y 	N 	0 	0.895 	0.449 	-9.063
+70 	O1A 	O 	AO1 	N 	N 	N 	0 	-3.035 	-1.088 	-2.992
+71 	O1P 	O 	O1P 	N 	N 	N 	0 	-0.354 	-1.835 	-0.853
+72 	O2 	O 	O2 	N 	N 	N 	0 	-3.97 	1.043 	8.721
+73 	O2' 	O 	O2* 	N 	N 	N 	0 	-0.919 	0.977 	5.673
+74 	O2A 	O 	AO2 	N 	N 	N 	0 	-0.678 	-1.906 	-3.378
+75 	O2B 	O 	AO2* 	N 	N 	N 	0 	-1.728 	-0.672 	-10.449
+76 	O2P 	O 	O2P 	N 	N 	N 	0 	-2.754 	-1.16 	-0.462
+77 	O3' 	O 	O3* 	N 	N 	N 	0 	0.337 	-2.026 	3.992
+78 	O3B 	O 	AO3* 	N 	N 	N 	0 	-3.639 	-0.203 	-8.744
+79 	O3P 	O 	O3P 	N 	N 	N 	0 	-1.161 	0.27 	-1.987
+80 	O4 	O 	O4 	N 	N 	N 	0 	-0.897 	2.34 	11.644
+81 	O4' 	O 	O4* 	N 	N 	N 	0 	-1.262 	1.174 	3.206
+82 	O4B 	O 	AO4* 	N 	N 	N 	0 	-0.665 	0.583 	-7.256
+83 	O5' 	O 	O5* 	N 	N 	N 	0 	-0.763 	0.179 	0.61
+84 	O5B 	O 	AO5* 	N 	N 	N 	0 	-1.595 	0.245 	-4.58
+85 	P 	P 	P 	R 	N 	N 	0 	-1.239 	-0.662 	-0.677
+86 	PA 	P 	AP 	R 	N 	N 	0 	-1.648 	-0.629 	-3.229
+
+
+
+FAD : Chemical Bonds
+Total Number of Bonds: 91
+Record 	First Atom 	Second Atom 	First Element 	Second Element 	Bond Order Type 	Bond Length 	Bond Stereochemistry 	Is Aromatic
+1 	PA 	O1A 	P 	O 	doub 	1.48 	N 	N
+2 	PA 	O2A 	P 	O 	sing 	1.61 	N 	N
+3 	PA 	O5B 	P 	O 	sing 	1.61 	N 	N
+4 	PA 	O3P 	P 	O 	sing 	1.61 	N 	N
+5 	O2A 	HOA2 	O 	H 	sing 	0.97 	N 	N
+6 	O5B 	C5B 	O 	C 	sing 	1.43 	N 	N
+7 	C5B 	C4B 	C 	C 	sing 	1.53 	N 	N
+8 	C5B 	H51A 	C 	H 	sing 	1.09 	N 	N
+9 	C5B 	H52A 	C 	H 	sing 	1.09 	N 	N
+10 	C4B 	O4B 	C 	O 	sing 	1.44 	N 	N
+11 	C4B 	C3B 	C 	C 	sing 	1.54 	N 	N
+12 	C4B 	H4B 	C 	H 	sing 	1.09 	N 	N
+13 	O4B 	C1B 	O 	C 	sing 	1.44 	N 	N
+14 	C3B 	O3B 	C 	O 	sing 	1.43 	N 	N
+15 	C3B 	C2B 	C 	C 	sing 	1.55 	N 	N
+16 	C3B 	H3B 	C 	H 	sing 	1.09 	N 	N
+17 	O3B 	HO3A 	O 	H 	sing 	0.97 	N 	N
+18 	C2B 	O2B 	C 	O 	sing 	1.43 	N 	N
+19 	C2B 	C1B 	C 	C 	sing 	1.55 	N 	N
+20 	C2B 	H2B 	C 	H 	sing 	1.09 	N 	N
+21 	O2B 	HO2A 	O 	H 	sing 	0.97 	N 	N
+22 	C1B 	N9A 	C 	N 	sing 	1.46 	N 	N
+23 	C1B 	H1B 	C 	H 	sing 	1.09 	N 	N
+24 	N9A 	C8A 	N 	C 	sing 	1.36 	N 	Y
+25 	N9A 	C4A 	N 	C 	sing 	1.37 	N 	Y
+26 	C8A 	N7A 	C 	N 	doub 	1.3 	N 	Y
+27 	C8A 	H8A 	C 	H 	sing 	1.08 	N 	N
+28 	N7A 	C5A 	N 	C 	sing 	1.35 	N 	Y
+29 	C5A 	C6A 	C 	C 	sing 	1.41 	N 	Y
+30 	C5A 	C4A 	C 	C 	doub 	1.4 	N 	Y
+31 	C6A 	N6A 	C 	N 	sing 	1.38 	N 	N
+32 	C6A 	N1A 	C 	N 	doub 	1.33 	N 	Y
+33 	N6A 	H61A 	N 	H 	sing 	0.97 	N 	N
+34 	N6A 	H62A 	N 	H 	sing 	0.97 	N 	N
+35 	N1A 	C2A 	N 	C 	sing 	1.32 	N 	Y
+36 	C2A 	N3A 	C 	N 	doub 	1.32 	N 	Y
+37 	C2A 	H2A 	C 	H 	sing 	1.08 	N 	N
+38 	N3A 	C4A 	N 	C 	sing 	1.33 	N 	Y
+39 	N1 	C2 	N 	C 	sing 	1.33 	N 	N
+40 	N1 	C10 	N 	C 	doub 	1.32 	N 	N
+41 	C2 	O2 	C 	O 	doub 	1.22 	N 	N
+42 	C2 	N3 	C 	N 	sing 	1.34 	N 	N
+43 	N3 	C4 	N 	C 	sing 	1.35 	N 	N
+44 	N3 	HN3 	N 	H 	sing 	0.97 	N 	N
+45 	C4 	O4 	C 	O 	doub 	1.22 	N 	N
+46 	C4 	C4X 	C 	C 	sing 	1.48 	N 	N
+47 	C4X 	N5 	C 	N 	doub 	1.31 	N 	N
+48 	C4X 	C10 	C 	C 	sing 	1.47 	N 	N
+49 	N5 	C5X 	N 	C 	sing 	1.34 	N 	N
+50 	C5X 	C6 	C 	C 	doub 	1.41 	N 	Y
+51 	C5X 	C9A 	C 	C 	sing 	1.41 	N 	Y
+52 	C6 	C7 	C 	C 	sing 	1.36 	N 	Y
+53 	C6 	H6 	C 	H 	sing 	1.08 	N 	N
+54 	C7 	C7M 	C 	C 	sing 	1.51 	N 	N
+55 	C7 	C8 	C 	C 	doub 	1.39 	N 	Y
+56 	C7M 	HM71 	C 	H 	sing 	1.09 	N 	N
+57 	C7M 	HM72 	C 	H 	sing 	1.09 	N 	N
+58 	C7M 	HM73 	C 	H 	sing 	1.09 	N 	N
+59 	C8 	C8M 	C 	C 	sing 	1.51 	N 	N
+60 	C8 	C9 	C 	C 	sing 	1.38 	N 	Y
+61 	C8M 	HM81 	C 	H 	sing 	1.09 	N 	N
+62 	C8M 	HM82 	C 	H 	sing 	1.09 	N 	N
+63 	C8M 	HM83 	C 	H 	sing 	1.09 	N 	N
+64 	C9 	C9A 	C 	C 	doub 	1.39 	N 	Y
+65 	C9 	H9 	C 	H 	sing 	1.08 	N 	N
+66 	C9A 	N10 	C 	N 	sing 	1.38 	N 	N
+67 	N10 	C10 	N 	C 	sing 	1.36 	N 	N
+68 	N10 	C1' 	N 	C 	sing 	1.46 	N 	N
+69 	C1' 	C2' 	C 	C 	sing 	1.53 	N 	N
+70 	C1' 	H1'1 	C 	H 	sing 	1.09 	N 	N
+71 	C1' 	H1'2 	C 	H 	sing 	1.09 	N 	N
+72 	C2' 	O2' 	C 	O 	sing 	1.43 	N 	N
+73 	C2' 	C3' 	C 	C 	sing 	1.53 	N 	N
+74 	C2' 	H2' 	C 	H 	sing 	1.09 	N 	N
+75 	O2' 	HO2' 	O 	H 	sing 	0.97 	N 	N
+76 	C3' 	O3' 	C 	O 	sing 	1.43 	N 	N
+77 	C3' 	C4' 	C 	C 	sing 	1.53 	N 	N
+78 	C3' 	H3' 	C 	H 	sing 	1.09 	N 	N
+79 	O3' 	HO3' 	O 	H 	sing 	0.97 	N 	N
+80 	C4' 	O4' 	C 	O 	sing 	1.43 	N 	N
+81 	C4' 	C5' 	C 	C 	sing 	1.53 	N 	N
+82 	C4' 	H4' 	C 	H 	sing 	1.09 	N 	N
+83 	O4' 	HO4' 	O 	H 	sing 	0.97 	N 	N
+84 	C5' 	O5' 	C 	O 	sing 	1.43 	N 	N
+85 	C5' 	H5'1 	C 	H 	sing 	1.09 	N 	N
+86 	C5' 	H5'2 	C 	H 	sing 	1.09 	N 	N
+87 	O5' 	P 	O 	P 	sing 	1.61 	N 	N
+88 	P 	O1P 	P 	O 	doub 	1.48 	N 	N
+89 	P 	O2P 	P 	O 	sing 	1.61 	N 	N
+90 	P 	O3P 	P 	O 	sing 	1.61 	N 	N
+91 	O2P 	HOP2 	O 	H 	sing 	0.97 	N 	N
+
+
+
+FAD : Used in PDB Entries
+Total Number of PDB Entries: 2324
+Ligand Code 	PDB Entry ID 	Type 	Total 	Distinct
+FAD 	1a8p Open in New Window 	Bound ligand 	1 	1
+FAD 	1ahv Open in New Window 	Bound ligand 	2 	1
+FAD 	1ahz Open in New Window 	Bound ligand 	2 	1
+FAD 	1amo Open in New Window 	Bound ligand 	2 	1
+FAD 	1an9 Open in New Window 	Bound ligand 	2 	1
+FAD 	1aog Open in New Window 	Bound ligand 	2 	1
+FAD 	1b2r Open in New Window 	Bound ligand 	1 	1
+FAD 	1b37 Open in New Window 	Bound ligand 	3 	1
+FAD 	1b4v Open in New Window 	Bound ligand 	1 	1
+FAD 	1b5q Open in New Window 	Bound ligand 	3 	1
+FAD 	1b5t Open in New Window 	Bound ligand 	3 	1
+FAD 	1b8s Open in New Window 	Bound ligand 	1 	1
+FAD 	1bf3 Open in New Window 	Bound ligand 	1 	1
+FAD 	1bgj Open in New Window 	Bound ligand 	1 	1
+FAD 	1bgn Open in New Window 	Bound ligand 	1 	1
+FAD 	1bhy Open in New Window 	Bound ligand 	1 	1
+FAD 	1bjk Open in New Window 	Bound ligand 	1 	1
+FAD 	1bkw Open in New Window 	Bound ligand 	1 	1
+FAD 	1bqe Open in New Window 	Bound ligand 	1 	1
+FAD 	1buc Open in New Window 	Bound ligand 	2 	1
+FAD 	1bwc Open in New Window 	Bound ligand 	1 	1
+FAD 	1bx0 Open in New Window 	Bound ligand 	1 	1
+FAD 	1bx1 Open in New Window 	Bound ligand 	1 	1
+FAD 	1bzl Open in New Window 	Bound ligand 	2 	1
+FAD 	1c0i Open in New Window 	Bound ligand 	1 	1
+FAD 	1c0k Open in New Window 	Bound ligand 	1 	1
+FAD 	1c0l Open in New Window 	Bound ligand 	1 	1
+FAD 	1c0p Open in New Window 	Bound ligand 	1 	1
+FAD 	1cbo Open in New Window 	Bound ligand 	1 	1
+FAD 	1cc2 Open in New Window 	Bound ligand 	1 	1
+FAD 	1cc4 Open in New Window 	Bound ligand 	1 	1
+FAD 	1cc6 Open in New Window 	Bound ligand 	1 	1
+FAD 	1cf3 Open in New Window 	Bound ligand 	1 	1
+FAD 	1cj2 Open in New Window 	Bound ligand 	1 	1
+FAD 	1cj3 Open in New Window 	Bound ligand 	1 	1
+FAD 	1cj4 Open in New Window 	Bound ligand 	1 	1
+FAD 	1cjc Open in New Window 	Bound ligand 	1 	1
+FAD 	1cl0 Open in New Window 	Bound ligand 	1 	1
+FAD 	1cne Open in New Window 	Bound ligand 	1 	1
+FAD 	1cnf Open in New Window 	Bound ligand 	1 	1
+FAD 	1coy Open in New Window 	Bound ligand 	1 	1
+FAD 	1cqx Open in New Window 	Bound ligand 	2 	1
+FAD 	1d4a Open in New Window 	Bound ligand 	4 	1
+FAD 	1d4c Open in New Window 	Bound ligand 	4 	1
+FAD 	1d4d Open in New Window 	Bound ligand 	1 	1
+FAD 	1d4e Open in New Window 	Bound ligand 	1 	1
+FAD 	1d7y Open in New Window 	Bound ligand 	1 	1
+FAD 	1ddg Open in New Window 	Bound ligand 	2 	1
+FAD 	1ddi Open in New Window 	Bound ligand 	1 	1
+FAD 	1ddo Open in New Window 	Bound ligand 	8 	1

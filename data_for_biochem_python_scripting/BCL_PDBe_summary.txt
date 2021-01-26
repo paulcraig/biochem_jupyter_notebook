@@ -1,0 +1,408 @@
+
+BCL : Summary
+Code
+	BCL
+One-letter code
+	X
+Molecule name
+	BACTERIOCHLOROPHYLL A
+Systematic names
+	Not Assigned
+Formula
+	C55 H74 Mg N4 O6
+Formal charge
+	0
+Molecular weight
+	911.504 Da
+SMILES
+	
+Type	Program	Version	Descriptor
+SMILES 	CACTVS 	3.341 	[Mg++]|1|2|3|[n-]4c5C=C6N|1=C([CH](CCC(=O)OCC=C(C)CCC[CH](C)CCC[CH](C)CCCC(C)C)[CH]6C)C7=c8[n-]|2c(=CC9=N|3C(=Cc4c(C(C)=O)c5C)[CH](C)[CH]9CC)c(C)c8C(=O)[CH]7C(=O)OC
+SMILES 	OpenEye OEToolkits 	1.5.0 	CCC1C(C2=CC3=C(C(=C4[N-]3[Mg+2]56[N]2=C1C=C7[N-]5C8=C(C(C(=O)C8=C7C)C(=O)OC)C9=[N]6C(=C4)C(C9CCC(=O)OCC=C(C)CCCC(C)CCCC(C)CCCC(C)C)C)C)C(=O)C)C
+Canonical SMILES 	CACTVS 	3.341 	[Mg++]|1|2|3|[n-]4c5C=C6N|1=C([C@@H](CCC(=O)OC\C=C(/C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)[C@@H]6C)C7=c8[n-]|2c(=CC9=N|3C(=Cc4c(C(C)=O)c5C)[C@H](C)[C@H]9CC)c(C)c8C(=O)[C@@H]7C(=O)OC
+Canonical SMILES 	OpenEye OEToolkits 	1.5.0 	CC[C@@H]1[C@H](C2=CC3=C(C(=C4[N-]3[Mg@+2]56[N]2=C1C=C7[N-]5C8=C([C@H](C(=O)C8=C7C)C(=O)OC)C9=[N]6C(=C4)[C@H]([C@@H]9CCC(=O)OC\C=C(/C)\CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C)C)C(=O)C)C
+IUPAC InChI
+	InChI=1/C55H75N4O6.Mg/c1-13-39-34(7)41-29-46-48(38(11)60)36(9)43(57-46)27-42-35(8)40(52(58-42)50-51(55(63)64-12)54(62)49-37(10)44(59-53(49)50)28-45(39)56-41)23-24-47(61)65-26-25-33(6)22-16-21-32(5)20-15-19-31(4)18-14-17-30(2)3;/h25,27-32,34-35,39-40,51H,13-24,26H2,1-12H3,(H-,56,57,58,59,60,62);/q-1;+2/p-1/b33-25+;/t31-,32-,34-,35+,39-,40+,51-;/m1./s1/fC55H74N4O6.Mg/q-2;m/b33-25+,41-29-,42-27-,43-27-,44-28-,45-28-,46-29-,52-50-;/rC55H74MgN4O6/c1-13-39-34(7)41-29-46-48(38(11)61)36(9)43-27-42-35(8)40(23-24-47(62)66-26-25-33(6)22-16-21-32(5)20-15-19-31(4)18-14-17-30(2)3)52-50-51(55(64)65-12)54(63)49-37(10)44-28-45(39)57(41)56(58(43)46,59(42)52)60(44)53(49)50/h25,27-32,34-35,39-40,51H,13-24,26H2,1-12H3/b33-25+/t31-,32-,34-,35+,39-,40+,51-/m1/s1
+IUPAC InChI key
+	DSJXIQQMORJERS-RUUWGSCADZ
+	
+BCL
+
+wwPDB Information
+Atom count
+	140 (66 without Hydrogen)
+Polymer type
+	Bound ligand
+Type description
+	NON-POLYMER
+Type code
+	HETAIN
+Is modified
+	No
+Standard parent
+	Not Assigned
+Defined at
+	1999-07-08
+Last modified at
+	2008-11-03
+Status
+	Released
+Obsoleted
+	Not Assigned
+
+	
+
+
+BCL : Atoms of Molecule
+Total Number of Atoms: 140
+Record 	Atom Name 	Symbol 	PDB Name 	Stereochemistry 	Is Aromatic 	Is Leaving Atom 	Charge 	X-Coordinate 	Y-Coordinate 	Z-Coordinate
+1 	C1 	C 	C1 	N 	N 	N 	0 	40.458 	54.391 	26.198
+2 	C10 	C 	C10 	N 	N 	N 	0 	39.177 	49.291 	31.263
+3 	C11 	C 	C11 	N 	N 	N 	0 	38.978 	49.007 	32.703
+4 	C12 	C 	C12 	N 	N 	N 	0 	37.477 	49.127 	32.881
+5 	C13 	C 	C13 	R 	N 	N 	0 	37.203 	49.277 	34.381
+6 	C14 	C 	C14 	N 	N 	N 	0 	37.582 	47.952 	35.048
+7 	C15 	C 	C15 	N 	N 	N 	0 	35.746 	49.588 	34.636
+8 	C16 	C 	C16 	N 	N 	N 	0 	35.513 	50.923 	33.995
+9 	C17 	C 	C17 	N 	N 	N 	0 	34.173 	51.431 	34.475
+10 	C18 	C 	C18 	N 	N 	N 	0 	34.07 	52.954 	34.42
+11 	C19 	C 	C19 	N 	N 	N 	0 	33.035 	53.32 	35.451
+12 	C1A 	C 	C1A 	N 	N 	N 	0 	39.344 	49.683 	21.64
+13 	C1B 	C 	C1B 	N 	Y 	N 	0 	43.563 	49.733 	21.089
+14 	C1C 	C 	C1C 	N 	N 	N 	0 	43.992 	46.205 	23.465
+15 	C1D 	C 	C1D 	N 	Y 	N 	0 	39.876 	46.122 	24.089
+16 	C2 	C 	C2 	N 	N 	N 	0 	40.55 	53.651 	27.525
+17 	C20 	C 	C20 	N 	N 	N 	0 	33.515 	53.424 	33.06
+18 	C2A 	C 	C2A 	S 	N 	N 	0 	38.995 	51.096 	21.157
+19 	C2B 	C 	C2B 	N 	Y 	N 	0 	44.903 	50.042 	21.015
+20 	C2C 	C 	C2C 	R 	N 	N 	0 	44.41 	45.044 	24.336
+21 	C2D 	C 	C2D 	N 	Y 	N 	0 	38.509 	46.01 	24.394
+22 	C3 	C 	C3 	N 	N 	N 	0 	41.638 	53.614 	28.27
+23 	C3A 	C 	C3A 	S 	N 	N 	0 	40.214 	51.397 	20.201
+24 	C3B 	C 	C3B 	N 	Y 	N 	0 	45.602 	49.064 	21.609
+25 	C3C 	C 	C3C 	R 	N 	N 	0 	43.166 	44.254 	24.546
+26 	C3D 	C 	C3D 	N 	Y 	N 	0 	37.978 	47.011 	23.69
+27 	C4 	C 	C4 	N 	N 	N 	0 	42.917 	54.259 	27.83
+28 	C4A 	C 	C4A 	N 	N 	N 	0 	41.197 	50.4 	20.779
+29 	C4B 	C 	C4B 	N 	Y 	N 	0 	44.681 	48.126 	22.137
+30 	C4C 	C 	C4C 	N 	N 	N 	0 	42.149 	45.334 	24.158
+31 	C4D 	C 	C4D 	N 	Y 	N 	0 	38.992 	47.684 	23.013
+32 	C5 	C 	C5 	N 	N 	N 	0 	41.72 	52.859 	29.618
+33 	C6 	C 	C6 	N 	N 	N 	0 	41.016 	51.487 	29.492
+34 	C7 	C 	C7 	N 	N 	N 	0 	40.742 	51.034 	30.929
+35 	C8 	C 	C8 	R 	N 	N 	0 	40.642 	49.541 	31.084
+36 	C9 	C 	C9 	N 	N 	N 	0 	41.139 	48.768 	29.863
+37 	CAA 	C 	CAA 	N 	N 	N 	0 	38.821 	52.038 	22.331
+38 	CAB 	C 	CAB 	N 	N 	N 	0 	47.1 	49.137 	21.895
+39 	CAC 	C 	CAC 	N 	N 	N 	0 	43.178 	44.01 	26.059
+40 	CAD 	C 	CAD 	N 	N 	N 	0 	36.731 	47.838 	23.628
+41 	CBA 	C 	CBA 	N 	N 	N 	0 	40.075 	52.291 	23.124
+42 	CBB 	C 	CBB 	N 	N 	N 	0 	48.031 	50.021 	21.111
+43 	CBC 	C 	CBC 	N 	N 	N 	0 	42.917 	45.263 	26.909
+44 	CBD 	C 	CBD 	R 	N 	N 	0 	37.099 	49.129 	22.796
+45 	CED 	C 	CED 	N 	N 	N 	0 	35.647 	49.778 	19.424
+46 	CGA 	C 	CGA 	N 	N 	N 	0 	39.808 	53.348 	24.186
+47 	CGD 	C 	CGD 	N 	N 	N 	0 	36.223 	49.03 	21.522
+48 	CHA 	C 	CHA 	N 	N 	N 	0 	38.575 	48.897 	22.425
+49 	CHB 	C 	CHB 	N 	N 	N 	0 	42.547 	50.559 	20.576
+50 	CHC 	C 	CHC 	N 	N 	N 	0 	44.968 	47.023 	22.877
+51 	CHD 	C 	CHD 	N 	N 	N 	0 	40.832 	45.174 	24.432
+52 	CMA 	C 	CMA 	N 	N 	N 	0 	39.891 	50.869 	18.799
+53 	CMB 	C 	CMB 	N 	N 	N 	0 	45.415 	51.19 	20.192
+54 	CMC 	C 	CMC 	N 	N 	N 	0 	45.287 	44.103 	23.541
+55 	CMD 	C 	CMD 	N 	N 	N 	0 	37.802 	44.889 	25.099
+56 	H101 	H 	H101 	N 	N 	N 	0 	38.595 	50.173 	30.959
+57 	H102 	H 	H102 	N 	N 	N 	0 	38.837 	48.451 	30.64
+58 	H11 	H 	H11 	N 	N 	N 	0 	41.22 	55.185 	26.186
+59 	H111 	H 	H111 	N 	N 	N 	0 	39.337 	48.002 	32.97
+60 	H112 	H 	H112 	N 	N 	N 	0 	39.541 	49.691 	33.355
+61 	H12 	H 	H12 	N 	N 	N 	0 	39.442 	54.802 	26.109
+62 	H121 	H 	H121 	N 	N 	N 	0 	37.1 	50.006 	32.337
+63 	H122 	H 	H122 	N 	N 	N 	0 	36.968 	48.238 	32.482
+64 	H13 	H 	H13 	N 	N 	N 	0 	37.793 	50.109 	34.792
+65 	H141 	H 	H141 	N 	N 	N 	0 	37.673 	47.168 	34.282
+66 	H142 	H 	H142 	N 	N 	N 	0 	38.543 	48.067 	35.571
+67 	H143 	H 	H143 	N 	N 	N 	0 	36.802 	47.669 	35.771
+68 	H151 	H 	H151 	N 	N 	N 	0 	35.096 	48.82 	34.192
+69 	H152 	H 	H152 	N 	N 	N 	0 	35.512 	49.603 	35.711
+70 	H161 	H 	H161 	N 	N 	N 	0 	36.309 	51.625 	34.283
+71 	H162 	H 	H162 	N 	N 	N 	0 	35.521 	50.832 	32.899
+72 	H171 	H 	H171 	N 	N 	N 	0 	33.389 	51.005 	33.832
+73 	H172 	H 	H172 	N 	N 	N 	0 	34.054 	51.124 	35.525
+74 	H18 	H 	H18 	N 	N 	N 	0 	35.059 	53.408 	34.583
+75 	H191 	H 	H191 	N 	N 	N 	0 	33.514 	53.409 	36.437
+76 	H192 	H 	H192 	N 	N 	N 	0 	32.572 	54.28 	35.18
+77 	H193 	H 	H193 	N 	N 	N 	0 	32.263 	52.538 	35.489
+78 	H2 	H 	H2 	N 	N 	N 	0 	39.674 	53.126 	27.877
+79 	H201 	H 	H201 	N 	N 	N 	0 	32.423 	53.536 	33.128
+80 	H202 	H 	H202 	N 	N 	N 	0 	33.967 	54.391 	32.794
+81 	H203 	H 	H203 	N 	N 	N 	0 	33.76 	52.68 	32.288
+82 	H2A 	H 	H2A 	N 	N 	N 	0 	38.035 	51.214 	20.632
+83 	H2C 	H 	H2C 	N 	N 	N 	0 	44.913 	45.407 	25.244
+84 	H3A 	H 	H3A 	N 	N 	N 	0 	40.51 	52.454 	20.137
+85 	H3C 	H 	H3C 	N 	N 	N 	0 	43.006 	43.301 	24.021
+86 	H41 	H 	H41 	N 	N 	N 	0 	42.893 	54.417 	26.742
+87 	H42 	H 	H42 	N 	N 	N 	0 	43.033 	55.228 	28.338
+88 	H43 	H 	H43 	N 	N 	N 	0 	43.764 	53.606 	28.087
+89 	H51 	H 	H51 	N 	N 	N 	0 	42.776 	52.704 	29.886
+90 	H52 	H 	H52 	N 	N 	N 	0 	41.223 	53.453 	30.399
+91 	H61 	H 	H61 	N 	N 	N 	0 	40.077 	51.58 	28.926
+92 	H62 	H 	H62 	N 	N 	N 	0 	41.637 	50.76 	28.948
+93 	H71 	H 	H71 	N 	N 	N 	0 	41.569 	51.388 	31.562
+94 	H72 	H 	H72 	N 	N 	N 	0 	39.769 	51.456 	31.221
+95 	H8 	H 	H8 	N 	N 	N 	0 	41.27 	49.199 	31.92
+96 	H91 	H 	H91 	N 	N 	N 	0 	41.258 	49.458 	29.015
+97 	H92 	H 	H92 	N 	N 	N 	0 	42.108 	48.301 	30.094
+98 	H93 	H 	H93 	N 	N 	N 	0 	40.409 	47.988 	29.601
+99 	HAA1 	H 	HAA1 	N 	N 	N 	0 	38.472 	53.004 	21.938
+100 	HAA2 	H 	HAA2 	N 	N 	N 	0 	38.107 	51.557 	23.016
+101 	HAC1 	H 	HAC1 	N 	N 	N 	0 	42.39 	43.278 	26.288
+102 	HAC2 	H 	HAC2 	N 	N 	N 	0 	44.189 	43.661 	26.314
+103 	HBA1 	H 	HBA1 	N 	N 	N 	0 	40.394 	51.357 	23.611
+104 	HBA2 	H 	HBA2 	N 	N 	N 	0 	40.867 	52.646 	22.448
+105 	HBB1 	H 	HBB1 	N 	N 	N 	0 	47.59 	50.237 	20.126
+106 	HBB2 	H 	HBB2 	N 	N 	N 	0 	48.188 	50.963 	21.657
+107 	HBB3 	H 	HBB3 	N 	N 	N 	0 	48.995 	49.509 	20.976
+108 	HBC1 	H 	HBC1 	N 	N 	N 	0 	42.855 	44.98 	27.97
+109 	HBC2 	H 	HBC2 	N 	N 	N 	0 	43.74 	45.979 	26.768
+110 	HBC3 	H 	HBC3 	N 	N 	N 	0 	41.97 	45.727 	26.597
+111 	HBD 	H 	HBD 	N 	N 	N 	0 	36.949 	50.096 	23.299
+112 	HED1 	H 	HED1 	N 	N 	N 	0 	35.591 	50.726 	18.869
+113 	HED2 	H 	HED2 	N 	N 	N 	0 	36.479 	49.173 	19.033
+114 	HED3 	H 	HED3 	N 	N 	N 	0 	34.703 	49.226 	19.303
+115 	HHB 	H 	HHB 	N 	N 	N 	0 	42.856 	51.395 	19.966
+116 	HHC 	H 	HHC 	N 	N 	N 	0 	46.006 	46.762 	23.021
+117 	HHD 	H 	HHD 	N 	N 	N 	0 	40.513 	44.274 	24.937
+118 	HMA1 	H 	HMA1 	N 	N 	N 	0 	39.814 	51.713 	18.098
+119 	HMA2 	H 	HMA2 	N 	N 	N 	0 	40.692 	50.191 	18.469
+120 	HMA3 	H 	HMA3 	N 	N 	N 	0 	38.936 	50.324 	18.824
+121 	HMB1 	H 	HMB1 	N 	N 	N 	0 	45.54 	52.075 	20.834
+122 	HMB2 	H 	HMB2 	N 	N 	N 	0 	46.384 	50.919 	19.748
+123 	HMB3 	H 	HMB3 	N 	N 	N 	0 	44.695 	51.417 	19.392
+124 	HMC1 	H 	HMC1 	N 	N 	N 	0 	45.5 	44.544 	22.556
+125 	HMC2 	H 	HMC2 	N 	N 	N 	0 	46.231 	43.938 	24.081
+126 	HMC3 	H 	HMC3 	N 	N 	N 	0 	44.768 	43.143 	23.408
+127 	HMD1 	H 	HMD1 	N 	N 	N 	0 	37.629 	44.063 	24.394
+128 	HMD2 	H 	HMD2 	N 	N 	N 	0 	38.422 	44.533 	25.935
+129 	HMD3 	H 	HMD3 	N 	N 	N 	0 	36.837 	45.25 	25.485
+130 	MG 	MG 	MG 	N 	N 	N 	2 	41.707 	47.68 	22.121
+131 	NA 	N 	NA 	N 	N 	N 	0 	40.684 	49.374 	21.459
+132 	NB 	N 	NB 	N 	Y 	N 	-1 	43.434 	48.539 	21.744
+133 	NC 	N 	NC 	N 	N 	N 	0 	42.646 	46.268 	23.293
+134 	ND 	N 	ND 	N 	Y 	N 	-1 	40.166 	47.108 	23.164
+135 	O1A 	O 	O1A 	N 	N 	N 	0 	38.921 	54.061 	24.226
+136 	O1D 	O 	O1D 	N 	N 	N 	0 	35.972 	48.085 	21.001
+137 	O2A 	O 	O2A 	N 	N 	N 	0 	40.689 	53.503 	25.048
+138 	O2D 	O 	O2D 	N 	N 	N 	0 	35.881 	50.068 	20.906
+139 	OBB 	O 	OBB 	N 	N 	N 	0 	47.641 	48.355 	22.585
+140 	OBD 	O 	OBD 	N 	N 	N 	0 	35.496 	47.526 	23.9
+
+
+
+BCL : Chemical Bonds
+Total Number of Bonds: 148
+Record 	First Atom 	Second Atom 	First Element 	Second Element 	Bond Order Type 	Bond Length 	Bond Stereochemistry 	Is Aromatic
+1 	MG 	NA 	MG 	N 	sing 	2.09 	N 	N
+2 	MG 	NB 	MG 	N 	sing 	1.97 	N 	N
+3 	MG 	NC 	MG 	N 	sing 	2.06 	N 	N
+4 	MG 	ND 	MG 	N 	sing 	1.95 	N 	N
+5 	CHA 	C1A 	C 	C 	sing 	1.35 	N 	N
+6 	CHA 	C4D 	C 	C 	doub 	1.41 	N 	N
+7 	CHA 	CBD 	C 	C 	sing 	1.54 	N 	N
+8 	CHB 	C4A 	C 	C 	doub 	1.37 	N 	N
+9 	CHB 	C1B 	C 	C 	sing 	1.41 	N 	N
+10 	CHB 	HHB 	C 	H 	sing 	1.08 	N 	N
+11 	CHC 	C4B 	C 	C 	sing 	1.36 	N 	N
+12 	CHC 	C1C 	C 	C 	doub 	1.4 	N 	N
+13 	CHC 	HHC 	C 	H 	sing 	1.08 	N 	N
+14 	CHD 	C4C 	C 	C 	sing 	1.35 	N 	N
+15 	CHD 	C1D 	C 	C 	doub 	1.39 	N 	N
+16 	CHD 	HHD 	C 	H 	sing 	1.08 	N 	N
+17 	NA 	C1A 	N 	C 	doub 	1.39 	N 	N
+18 	NA 	C4A 	N 	C 	sing 	1.33 	N 	N
+19 	C1A 	C2A 	C 	C 	sing 	1.53 	N 	N
+20 	C2A 	C3A 	C 	C 	sing 	1.58 	N 	N
+21 	C2A 	CAA 	C 	C 	sing 	1.52 	N 	N
+22 	C2A 	H2A 	C 	H 	sing 	1.1 	N 	N
+23 	C3A 	C4A 	C 	C 	sing 	1.51 	N 	N
+24 	C3A 	CMA 	C 	C 	sing 	1.53 	N 	N
+25 	C3A 	H3A 	C 	H 	sing 	1.1 	N 	N
+26 	CMA 	HMA1 	C 	H 	sing 	1.1 	N 	N
+27 	CMA 	HMA2 	C 	H 	sing 	1.1 	N 	N
+28 	CMA 	HMA3 	C 	H 	sing 	1.1 	N 	N
+29 	CAA 	CBA 	C 	C 	sing 	1.51 	N 	N
+30 	CAA 	HAA1 	C 	H 	sing 	1.1 	N 	N
+31 	CAA 	HAA2 	C 	H 	sing 	1.1 	N 	N
+32 	CBA 	CGA 	C 	C 	sing 	1.52 	N 	N
+33 	CBA 	HBA1 	C 	H 	sing 	1.1 	N 	N
+34 	CBA 	HBA2 	C 	H 	sing 	1.1 	N 	N
+35 	CGA 	O1A 	C 	O 	doub 	1.14 	N 	N
+36 	CGA 	O2A 	C 	O 	sing 	1.24 	N 	N
+37 	O2A 	C1 	O 	C 	sing 	1.47 	N 	N
+38 	NB 	C1B 	N 	C 	sing 	1.37 	N 	Y
+39 	NB 	C4B 	N 	C 	sing 	1.37 	N 	Y
+40 	C1B 	C2B 	C 	C 	doub 	1.38 	N 	Y
+41 	C2B 	C3B 	C 	C 	sing 	1.34 	N 	Y
+42 	C2B 	CMB 	C 	C 	sing 	1.5 	N 	N
+43 	C3B 	C4B 	C 	C 	doub 	1.42 	N 	Y
+44 	C3B 	CAB 	C 	C 	sing 	1.53 	N 	N
+45 	CMB 	HMB1 	C 	H 	sing 	1.1 	N 	N
+46 	CMB 	HMB2 	C 	H 	sing 	1.1 	N 	N
+47 	CMB 	HMB3 	C 	H 	sing 	1.1 	N 	N
+48 	CAB 	OBB 	C 	O 	doub 	1.17 	N 	N
+49 	CAB 	CBB 	C 	C 	sing 	1.5 	N 	N
+50 	CBB 	HBB1 	C 	H 	sing 	1.1 	N 	N
+51 	CBB 	HBB2 	C 	H 	sing 	1.1 	N 	N
+52 	CBB 	HBB3 	C 	H 	sing 	1.1 	N 	N
+53 	NC 	C1C 	N 	C 	sing 	1.36 	N 	N
+54 	NC 	C4C 	N 	C 	doub 	1.37 	N 	N
+55 	C1C 	C2C 	C 	C 	sing 	1.51 	N 	N
+56 	C2C 	C3C 	C 	C 	sing 	1.49 	N 	N
+57 	C2C 	CMC 	C 	C 	sing 	1.51 	N 	N
+58 	C2C 	H2C 	C 	H 	sing 	1.1 	N 	N
+59 	C3C 	C4C 	C 	C 	sing 	1.53 	N 	N
+60 	C3C 	CAC 	C 	C 	sing 	1.53 	N 	N
+61 	C3C 	H3C 	C 	H 	sing 	1.1 	N 	N
+62 	CMC 	HMC1 	C 	H 	sing 	1.1 	N 	N
+63 	CMC 	HMC2 	C 	H 	sing 	1.1 	N 	N
+64 	CMC 	HMC3 	C 	H 	sing 	1.1 	N 	N
+65 	CAC 	CBC 	C 	C 	sing 	1.54 	N 	N
+66 	CAC 	HAC1 	C 	H 	sing 	1.1 	N 	N
+67 	CAC 	HAC2 	C 	H 	sing 	1.1 	N 	N
+68 	CBC 	HBC1 	C 	H 	sing 	1.1 	N 	N
+69 	CBC 	HBC2 	C 	H 	sing 	1.1 	N 	N
+70 	CBC 	HBC3 	C 	H 	sing 	1.1 	N 	N
+71 	ND 	C1D 	N 	C 	sing 	1.38 	N 	Y
+72 	ND 	C4D 	N 	C 	sing 	1.32 	N 	Y
+73 	C1D 	C2D 	C 	C 	sing 	1.41 	N 	Y
+74 	C2D 	C3D 	C 	C 	doub 	1.33 	N 	Y
+75 	C2D 	CMD 	C 	C 	sing 	1.5 	N 	N
+76 	C3D 	C4D 	C 	C 	sing 	1.39 	N 	Y
+77 	C3D 	CAD 	C 	C 	sing 	1.5 	N 	N
+78 	CMD 	HMD1 	C 	H 	sing 	1.1 	N 	N
+79 	CMD 	HMD2 	C 	H 	sing 	1.1 	N 	N
+80 	CMD 	HMD3 	C 	H 	sing 	1.1 	N 	N
+81 	CAD 	OBD 	C 	O 	doub 	1.3 	N 	N
+82 	CAD 	CBD 	C 	C 	sing 	1.58 	N 	N
+83 	CBD 	CGD 	C 	C 	sing 	1.55 	N 	N
+84 	CBD 	HBD 	C 	H 	sing 	1.1 	N 	N
+85 	CGD 	O1D 	C 	O 	doub 	1.11 	N 	N
+86 	CGD 	O2D 	C 	O 	sing 	1.25 	N 	N
+87 	O2D 	CED 	O 	C 	sing 	1.53 	N 	N
+88 	CED 	HED1 	C 	H 	sing 	1.1 	N 	N
+89 	CED 	HED2 	C 	H 	sing 	1.1 	N 	N
+90 	CED 	HED3 	C 	H 	sing 	1.1 	N 	N
+91 	C1 	C2 	C 	C 	sing 	1.52 	N 	N
+92 	C1 	H11 	C 	H 	sing 	1.1 	N 	N
+93 	C1 	H12 	C 	H 	sing 	1.1 	N 	N
+94 	C2 	C3 	C 	C 	doub 	1.32 	E 	N
+95 	C2 	H2 	C 	H 	sing 	1.08 	N 	N
+96 	C3 	C4 	C 	C 	sing 	1.5 	N 	N
+97 	C3 	C5 	C 	C 	sing 	1.55 	N 	N
+98 	C4 	H41 	C 	H 	sing 	1.1 	N 	N
+99 	C4 	H42 	C 	H 	sing 	1.1 	N 	N
+100 	C4 	H43 	C 	H 	sing 	1.1 	N 	N
+101 	C5 	C6 	C 	C 	sing 	1.55 	N 	N
+102 	C5 	H51 	C 	H 	sing 	1.1 	N 	N
+103 	C5 	H52 	C 	H 	sing 	1.1 	N 	N
+104 	C6 	C7 	C 	C 	sing 	1.53 	N 	N
+105 	C6 	H61 	C 	H 	sing 	1.1 	N 	N
+106 	C6 	H62 	C 	H 	sing 	1.1 	N 	N
+107 	C7 	C8 	C 	C 	sing 	1.5 	N 	N
+108 	C7 	H71 	C 	H 	sing 	1.1 	N 	N
+109 	C7 	H72 	C 	H 	sing 	1.1 	N 	N
+110 	C8 	C9 	C 	C 	sing 	1.53 	N 	N
+111 	C8 	C10 	C 	C 	sing 	1.5 	N 	N
+112 	C8 	H8 	C 	H 	sing 	1.1 	N 	N
+113 	C9 	H91 	C 	H 	sing 	1.1 	N 	N
+114 	C9 	H92 	C 	H 	sing 	1.1 	N 	N
+115 	C9 	H93 	C 	H 	sing 	1.1 	N 	N
+116 	C10 	C11 	C 	C 	sing 	1.48 	N 	N
+117 	C10 	H101 	C 	H 	sing 	1.1 	N 	N
+118 	C10 	H102 	C 	H 	sing 	1.1 	N 	N
+119 	C11 	C12 	C 	C 	sing 	1.52 	N 	N
+120 	C11 	H111 	C 	H 	sing 	1.1 	N 	N
+121 	C11 	H112 	C 	H 	sing 	1.1 	N 	N
+122 	C12 	C13 	C 	C 	sing 	1.53 	N 	N
+123 	C12 	H121 	C 	H 	sing 	1.1 	N 	N
+124 	C12 	H122 	C 	H 	sing 	1.1 	N 	N
+125 	C13 	C14 	C 	C 	sing 	1.53 	N 	N
+126 	C13 	C15 	C 	C 	sing 	1.51 	N 	N
+127 	C13 	H13 	C 	H 	sing 	1.1 	N 	N
+128 	C14 	H141 	C 	H 	sing 	1.1 	N 	N
+129 	C14 	H142 	C 	H 	sing 	1.1 	N 	N
+130 	C14 	H143 	C 	H 	sing 	1.1 	N 	N
+131 	C15 	C16 	C 	C 	sing 	1.5 	N 	N
+132 	C15 	H151 	C 	H 	sing 	1.1 	N 	N
+133 	C15 	H152 	C 	H 	sing 	1.1 	N 	N
+134 	C16 	C17 	C 	C 	sing 	1.51 	N 	N
+135 	C16 	H161 	C 	H 	sing 	1.1 	N 	N
+136 	C16 	H162 	C 	H 	sing 	1.1 	N 	N
+137 	C17 	C18 	C 	C 	sing 	1.53 	N 	N
+138 	C17 	H171 	C 	H 	sing 	1.1 	N 	N
+139 	C17 	H172 	C 	H 	sing 	1.1 	N 	N
+140 	C18 	C19 	C 	C 	sing 	1.51 	N 	N
+141 	C18 	C20 	C 	C 	sing 	1.54 	N 	N
+142 	C18 	H18 	C 	H 	sing 	1.1 	N 	N
+143 	C19 	H191 	C 	H 	sing 	1.1 	N 	N
+144 	C19 	H192 	C 	H 	sing 	1.1 	N 	N
+145 	C19 	H193 	C 	H 	sing 	1.1 	N 	N
+146 	C20 	H201 	C 	H 	sing 	1.1 	N 	N
+147 	C20 	H202 	C 	H 	sing 	1.1 	N 	N
+148 	C20 	H203 	C 	H 	sing 	1.1 	N 	N
+
+
+
+BCL : Used in PDB Entries
+Total Number of PDB Entries: 129
+Ligand Code 	PDB Entry ID 	Type 	Total 	Distinct
+BCL 	1aig Open in New Window 	Bound ligand 	8 	1
+BCL 	1aij Open in New Window 	Bound ligand 	8 	1
+BCL 	1ds8 Open in New Window 	Bound ligand 	8 	1
+BCL 	1dv3 Open in New Window 	Bound ligand 	8 	1
+BCL 	1dv6 Open in New Window 	Bound ligand 	8 	1
+BCL 	1e14 Open in New Window 	Bound ligand 	4 	1
+BCL 	1e6d Open in New Window 	Bound ligand 	4 	1
+BCL 	1eys Open in New Window 	Bound ligand 	4 	1
+BCL 	1f6n Open in New Window 	Bound ligand 	4 	1
+BCL 	1fnp Open in New Window 	Bound ligand 	4 	1
+BCL 	1fnq Open in New Window 	Bound ligand 	4 	1
+BCL 	1ijd Open in New Window 	Bound ligand 	9 	1
+BCL 	1jgw Open in New Window 	Bound ligand 	4 	1
+BCL 	1jgx Open in New Window 	Bound ligand 	4 	1
+BCL 	1jgy Open in New Window 	Bound ligand 	4 	1
+BCL 	1jgz Open in New Window 	Bound ligand 	4 	1
+BCL 	1jh0 Open in New Window 	Bound ligand 	4 	1
+BCL 	1k6l Open in New Window 	Bound ligand 	4 	1
+BCL 	1k6n Open in New Window 	Bound ligand 	4 	1
+BCL 	1kby Open in New Window 	Bound ligand 	3 	1
+BCL 	1kzu Open in New Window 	Bound ligand 	9 	1
+BCL 	1l9b Open in New Window 	Bound ligand 	4 	1
+BCL 	1l9j Open in New Window 	Bound ligand 	8 	1
+BCL 	1lgh Open in New Window 	Bound ligand 	12 	1
+BCL 	1m3x Open in New Window 	Bound ligand 	4 	1
+BCL 	1mps Open in New Window 	Bound ligand 	4 	1
+BCL 	1nkz Open in New Window 	Bound ligand 	9 	1
+BCL 	1ogv Open in New Window 	Bound ligand 	4 	1
+BCL 	1pcr Open in New Window 	Bound ligand 	4 	1
+BCL 	1pss Open in New Window 	Bound ligand 	4 	1
+BCL 	1pst Open in New Window 	Bound ligand 	3 	1
+BCL 	1pyh Open in New Window 	Bound ligand 	34 	1
+BCL 	1qov Open in New Window 	Bound ligand 	4 	1
+BCL 	1rg5 Open in New Window 	Bound ligand 	4 	1
+BCL 	1rgn Open in New Window 	Bound ligand 	4 	1
+BCL 	1rqk Open in New Window 	Bound ligand 	4 	1
+BCL 	1rvj Open in New Window 	Bound ligand 	4 	1
+BCL 	1ry5 Open in New Window 	Bound ligand 	4 	1
+BCL 	1rzh Open in New Window 	Bound ligand 	4 	1
+BCL 	1rzz Open in New Window 	Bound ligand 	8 	1
+BCL 	1s00 Open in New Window 	Bound ligand 	8 	1
+BCL 	1umx Open in New Window 	Bound ligand 	4 	1
+BCL 	1yf6 Open in New Window 	Bound ligand 	5 	1
+BCL 	1yst Open in New Window 	Bound ligand 	4 	1
+BCL 	1z9j Open in New Window 	Bound ligand 	4 	1
+BCL 	1z9k Open in New Window 	Bound ligand 	4 	1
+BCL 	2bnp Open in New Window 	Bound ligand 	4 	1
+BCL 	2bns Open in New Window 	Bound ligand 	4 	1
+BCL 	2boz Open in New Window 	Bound ligand 	4 	1
+BCL 	2fkw Open in New Window 	Bound ligand 	27 	1

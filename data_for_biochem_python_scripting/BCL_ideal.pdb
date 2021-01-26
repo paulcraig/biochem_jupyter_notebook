@@ -1,0 +1,208 @@
+HEADER    Ideal coordinates
+ for PDB-CCD BCL
+COMPND    BCL
+AUTHOR    pdbccdutils 0.5.8
+AUTHOR    RDKit 2020.03.4
+HEADER    Ideal coordinates for PDB-CCD BCL
+COMPND    BCL
+AUTHOR    pdbccdutils 0.5.8
+AUTHOR    RDKit 2020.03.4
+HETATM    1 MG   BCL A   1      41.707  47.680  22.121  1.00 20.00          Mg 2
+HETATM    2 CHA  BCL A   1      38.575  48.897  22.425  1.00 20.00           C 0
+HETATM    3 CHB  BCL A   1      42.547  50.559  20.576  1.00 20.00           C 0
+HETATM    4 CHC  BCL A   1      44.968  47.023  22.877  1.00 20.00           C 0
+HETATM    5 CHD  BCL A   1      40.832  45.174  24.432  1.00 20.00           C 0
+HETATM    6 NA   BCL A   1      40.684  49.374  21.459  1.00 20.00           N 0
+HETATM    7 C1A  BCL A   1      39.344  49.683  21.640  1.00 20.00           C 0
+HETATM    8 C2A  BCL A   1      38.995  51.096  21.157  1.00 20.00           C 0
+HETATM    9 C3A  BCL A   1      40.214  51.397  20.201  1.00 20.00           C 0
+HETATM   10 C4A  BCL A   1      41.197  50.400  20.779  1.00 20.00           C 0
+HETATM   11 CMA  BCL A   1      39.891  50.869  18.799  1.00 20.00           C 0
+HETATM   12 CAA  BCL A   1      38.821  52.038  22.331  1.00 20.00           C 0
+HETATM   13 CBA  BCL A   1      40.075  52.291  23.124  1.00 20.00           C 0
+HETATM   14 CGA  BCL A   1      39.808  53.348  24.186  1.00 20.00           C 0
+HETATM   15 O1A  BCL A   1      38.921  54.061  24.226  1.00 20.00           O 0
+HETATM   16 O2A  BCL A   1      40.689  53.503  25.048  1.00 20.00           O 0
+HETATM   17 NB   BCL A   1      43.434  48.539  21.744  1.00 20.00           N-1
+HETATM   18 C1B  BCL A   1      43.563  49.733  21.089  1.00 20.00           C 0
+HETATM   19 C2B  BCL A   1      44.903  50.042  21.015  1.00 20.00           C 0
+HETATM   20 C3B  BCL A   1      45.602  49.064  21.609  1.00 20.00           C 0
+HETATM   21 C4B  BCL A   1      44.681  48.126  22.137  1.00 20.00           C 0
+HETATM   22 CMB  BCL A   1      45.415  51.190  20.192  1.00 20.00           C 0
+HETATM   23 CAB  BCL A   1      47.100  49.137  21.895  1.00 20.00           C 0
+HETATM   24 OBB  BCL A   1      47.641  48.355  22.585  1.00 20.00           O 0
+HETATM   25 CBB  BCL A   1      48.031  50.021  21.111  1.00 20.00           C 0
+HETATM   26 NC   BCL A   1      42.646  46.268  23.293  1.00 20.00           N 0
+HETATM   27 C1C  BCL A   1      43.992  46.205  23.465  1.00 20.00           C 0
+HETATM   28 C2C  BCL A   1      44.410  45.044  24.336  1.00 20.00           C 0
+HETATM   29 C3C  BCL A   1      43.166  44.254  24.546  1.00 20.00           C 0
+HETATM   30 C4C  BCL A   1      42.149  45.334  24.158  1.00 20.00           C 0
+HETATM   31 CMC  BCL A   1      45.287  44.103  23.541  1.00 20.00           C 0
+HETATM   32 CAC  BCL A   1      43.178  44.010  26.059  1.00 20.00           C 0
+HETATM   33 CBC  BCL A   1      42.917  45.263  26.909  1.00 20.00           C 0
+HETATM   34 ND   BCL A   1      40.166  47.108  23.164  1.00 20.00           N-1
+HETATM   35 C1D  BCL A   1      39.876  46.122  24.089  1.00 20.00           C 0
+HETATM   36 C2D  BCL A   1      38.509  46.010  24.394  1.00 20.00           C 0
+HETATM   37 C3D  BCL A   1      37.978  47.011  23.690  1.00 20.00           C 0
+HETATM   38 C4D  BCL A   1      38.992  47.684  23.013  1.00 20.00           C 0
+HETATM   39 CMD  BCL A   1      37.802  44.889  25.099  1.00 20.00           C 0
+HETATM   40 CAD  BCL A   1      36.731  47.838  23.628  1.00 20.00           C 0
+HETATM   41 OBD  BCL A   1      35.496  47.526  23.900  1.00 20.00           O 0
+HETATM   42 CBD  BCL A   1      37.099  49.129  22.796  1.00 20.00           C 0
+HETATM   43 CGD  BCL A   1      36.223  49.030  21.522  1.00 20.00           C 0
+HETATM   44 O1D  BCL A   1      35.972  48.085  21.001  1.00 20.00           O 0
+HETATM   45 O2D  BCL A   1      35.881  50.068  20.906  1.00 20.00           O 0
+HETATM   46 CED  BCL A   1      35.647  49.778  19.424  1.00 20.00           C 0
+HETATM   47 C1   BCL A   1      40.458  54.391  26.198  1.00 20.00           C 0
+HETATM   48 C2   BCL A   1      40.550  53.651  27.525  1.00 20.00           C 0
+HETATM   49 C3   BCL A   1      41.638  53.614  28.270  1.00 20.00           C 0
+HETATM   50 C4   BCL A   1      42.917  54.259  27.830  1.00 20.00           C 0
+HETATM   51 C5   BCL A   1      41.720  52.859  29.618  1.00 20.00           C 0
+HETATM   52 C6   BCL A   1      41.016  51.487  29.492  1.00 20.00           C 0
+HETATM   53 C7   BCL A   1      40.742  51.034  30.929  1.00 20.00           C 0
+HETATM   54 C8   BCL A   1      40.642  49.541  31.084  1.00 20.00           C 0
+HETATM   55 C9   BCL A   1      41.139  48.768  29.863  1.00 20.00           C 0
+HETATM   56 C10  BCL A   1      39.177  49.291  31.263  1.00 20.00           C 0
+HETATM   57 C11  BCL A   1      38.978  49.007  32.703  1.00 20.00           C 0
+HETATM   58 C12  BCL A   1      37.477  49.127  32.881  1.00 20.00           C 0
+HETATM   59 C13  BCL A   1      37.203  49.277  34.381  1.00 20.00           C 0
+HETATM   60 C14  BCL A   1      37.582  47.952  35.048  1.00 20.00           C 0
+HETATM   61 C15  BCL A   1      35.746  49.588  34.636  1.00 20.00           C 0
+HETATM   62 C16  BCL A   1      35.513  50.923  33.995  1.00 20.00           C 0
+HETATM   63 C17  BCL A   1      34.173  51.431  34.475  1.00 20.00           C 0
+HETATM   64 C18  BCL A   1      34.070  52.954  34.420  1.00 20.00           C 0
+HETATM   65 C19  BCL A   1      33.035  53.320  35.451  1.00 20.00           C 0
+HETATM   66 C20  BCL A   1      33.515  53.424  33.060  1.00 20.00           C 0
+HETATM   67 HHB  BCL A   1      42.856  51.395  19.966  1.00 20.00           H 0
+HETATM   68 HHC  BCL A   1      46.006  46.762  23.021  1.00 20.00           H 0
+HETATM   69 HHD  BCL A   1      40.513  44.274  24.937  1.00 20.00           H 0
+HETATM   70 H2A  BCL A   1      38.035  51.214  20.632  1.00 20.00           H 0
+HETATM   71 H3A  BCL A   1      40.510  52.454  20.137  1.00 20.00           H 0
+HETATM   72 HMA1 BCL A   1      39.814  51.713  18.098  1.00 20.00           H 0
+HETATM   73 HMA2 BCL A   1      40.692  50.191  18.469  1.00 20.00           H 0
+HETATM   74 HMA3 BCL A   1      38.936  50.324  18.824  1.00 20.00           H 0
+HETATM   75 HAA1 BCL A   1      38.472  53.004  21.938  1.00 20.00           H 0
+HETATM   76 HAA2 BCL A   1      38.107  51.557  23.016  1.00 20.00           H 0
+HETATM   77 HBA1 BCL A   1      40.394  51.357  23.611  1.00 20.00           H 0
+HETATM   78 HBA2 BCL A   1      40.867  52.646  22.448  1.00 20.00           H 0
+HETATM   79 HMB1 BCL A   1      45.540  52.075  20.834  1.00 20.00           H 0
+HETATM   80 HMB2 BCL A   1      46.384  50.919  19.748  1.00 20.00           H 0
+HETATM   81 HMB3 BCL A   1      44.695  51.417  19.392  1.00 20.00           H 0
+HETATM   82 HBB1 BCL A   1      47.590  50.237  20.126  1.00 20.00           H 0
+HETATM   83 HBB2 BCL A   1      48.188  50.963  21.657  1.00 20.00           H 0
+HETATM   84 HBB3 BCL A   1      48.995  49.509  20.976  1.00 20.00           H 0
+HETATM   85 H2C  BCL A   1      44.913  45.407  25.244  1.00 20.00           H 0
+HETATM   86 H3C  BCL A   1      43.006  43.301  24.021  1.00 20.00           H 0
+HETATM   87 HMC1 BCL A   1      45.500  44.544  22.556  1.00 20.00           H 0
+HETATM   88 HMC2 BCL A   1      46.231  43.938  24.081  1.00 20.00           H 0
+HETATM   89 HMC3 BCL A   1      44.768  43.143  23.408  1.00 20.00           H 0
+HETATM   90 HAC1 BCL A   1      42.390  43.278  26.288  1.00 20.00           H 0
+HETATM   91 HAC2 BCL A   1      44.189  43.661  26.314  1.00 20.00           H 0
+HETATM   92 HBC1 BCL A   1      42.855  44.980  27.970  1.00 20.00           H 0
+HETATM   93 HBC2 BCL A   1      43.740  45.979  26.768  1.00 20.00           H 0
+HETATM   94 HBC3 BCL A   1      41.970  45.727  26.597  1.00 20.00           H 0
+HETATM   95 HMD1 BCL A   1      37.629  44.063  24.394  1.00 20.00           H 0
+HETATM   96 HMD2 BCL A   1      38.422  44.533  25.935  1.00 20.00           H 0
+HETATM   97 HMD3 BCL A   1      36.837  45.250  25.485  1.00 20.00           H 0
+HETATM   98 HBD  BCL A   1      36.949  50.096  23.299  1.00 20.00           H 0
+HETATM   99 HED1 BCL A   1      35.591  50.726  18.869  1.00 20.00           H 0
+HETATM  100 HED2 BCL A   1      36.479  49.173  19.033  1.00 20.00           H 0
+HETATM  101 HED3 BCL A   1      34.703  49.226  19.303  1.00 20.00           H 0
+HETATM  102 H11  BCL A   1      41.220  55.185  26.186  1.00 20.00           H 0
+HETATM  103 H12  BCL A   1      39.442  54.802  26.109  1.00 20.00           H 0
+HETATM  104 H2   BCL A   1      39.674  53.126  27.877  1.00 20.00           H 0
+HETATM  105 H41  BCL A   1      42.893  54.417  26.742  1.00 20.00           H 0
+HETATM  106 H42  BCL A   1      43.033  55.228  28.338  1.00 20.00           H 0
+HETATM  107 H43  BCL A   1      43.764  53.606  28.087  1.00 20.00           H 0
+HETATM  108 H51  BCL A   1      42.776  52.704  29.886  1.00 20.00           H 0
+HETATM  109 H52  BCL A   1      41.223  53.453  30.399  1.00 20.00           H 0
+HETATM  110 H61  BCL A   1      40.077  51.580  28.926  1.00 20.00           H 0
+HETATM  111 H62  BCL A   1      41.637  50.760  28.948  1.00 20.00           H 0
+HETATM  112 H71  BCL A   1      41.569  51.388  31.562  1.00 20.00           H 0
+HETATM  113 H72  BCL A   1      39.769  51.456  31.221  1.00 20.00           H 0
+HETATM  114 H8   BCL A   1      41.270  49.199  31.920  1.00 20.00           H 0
+HETATM  115 H91  BCL A   1      41.258  49.458  29.015  1.00 20.00           H 0
+HETATM  116 H92  BCL A   1      42.108  48.301  30.094  1.00 20.00           H 0
+HETATM  117 H93  BCL A   1      40.409  47.988  29.601  1.00 20.00           H 0
+HETATM  118 H101 BCL A   1      38.595  50.173  30.959  1.00 20.00           H 0
+HETATM  119 H102 BCL A   1      38.837  48.451  30.640  1.00 20.00           H 0
+HETATM  120 H111 BCL A   1      39.337  48.002  32.970  1.00 20.00           H 0
+HETATM  121 H112 BCL A   1      39.541  49.691  33.355  1.00 20.00           H 0
+HETATM  122 H121 BCL A   1      37.100  50.006  32.337  1.00 20.00           H 0
+HETATM  123 H122 BCL A   1      36.968  48.238  32.482  1.00 20.00           H 0
+HETATM  124 H13  BCL A   1      37.793  50.109  34.792  1.00 20.00           H 0
+HETATM  125 H141 BCL A   1      37.673  47.168  34.282  1.00 20.00           H 0
+HETATM  126 H142 BCL A   1      38.543  48.067  35.571  1.00 20.00           H 0
+HETATM  127 H143 BCL A   1      36.802  47.669  35.771  1.00 20.00           H 0
+HETATM  128 H151 BCL A   1      35.096  48.820  34.192  1.00 20.00           H 0
+HETATM  129 H152 BCL A   1      35.512  49.603  35.711  1.00 20.00           H 0
+HETATM  130 H161 BCL A   1      36.309  51.625  34.283  1.00 20.00           H 0
+HETATM  131 H162 BCL A   1      35.521  50.832  32.899  1.00 20.00           H 0
+HETATM  132 H171 BCL A   1      33.389  51.005  33.832  1.00 20.00           H 0
+HETATM  133 H172 BCL A   1      34.054  51.124  35.525  1.00 20.00           H 0
+HETATM  134 H18  BCL A   1      35.059  53.408  34.583  1.00 20.00           H 0
+HETATM  135 H191 BCL A   1      33.514  53.409  36.437  1.00 20.00           H 0
+HETATM  136 H192 BCL A   1      32.572  54.280  35.180  1.00 20.00           H 0
+HETATM  137 H193 BCL A   1      32.263  52.538  35.489  1.00 20.00           H 0
+HETATM  138 H201 BCL A   1      32.423  53.536  33.128  1.00 20.00           H 0
+HETATM  139 H202 BCL A   1      33.967  54.391  32.794  1.00 20.00           H 0
+HETATM  140 H203 BCL A   1      33.760  52.680  32.288  1.00 20.00           H 0
+CONECT    1    6   17   26   34
+CONECT    2    7   38   38   42
+CONECT    3   10   10   18   67
+CONECT    4   21   27   27   68
+CONECT    5   30   35   35   69
+CONECT    6    7    7   10
+CONECT    7    8
+CONECT    8    9   12   70
+CONECT    9   10   11   71
+CONECT   11   72   73   74
+CONECT   12   13   75   76
+CONECT   13   14   77   78
+CONECT   14   15   15   16
+CONECT   16   47
+CONECT   17   18   21
+CONECT   18   19   19
+CONECT   19   20   22
+CONECT   20   21   21   23
+CONECT   22   79   80   81
+CONECT   23   24   24   25
+CONECT   25   82   83   84
+CONECT   26   27   30   30
+CONECT   27   28
+CONECT   28   29   31   85
+CONECT   29   30   32   86
+CONECT   31   87   88   89
+CONECT   32   33   90   91
+CONECT   33   92   93   94
+CONECT   34   35   38
+CONECT   35   36
+CONECT   36   37   37   39
+CONECT   37   38   40
+CONECT   39   95   96   97
+CONECT   40   41   41   42
+CONECT   42   43   98
+CONECT   43   44   44   45
+CONECT   45   46
+CONECT   46   99  100  101
+CONECT   47   48  102  103
+CONECT   48   49   49  104
+CONECT   49   50   51
+CONECT   50  105  106  107
+CONECT   51   52  108  109
+CONECT   52   53  110  111
+CONECT   53   54  112  113
+CONECT   54   55   56  114
+CONECT   55  115  116  117
+CONECT   56   57  118  119
+CONECT   57   58  120  121
+CONECT   58   59  122  123
+CONECT   59   60   61  124
+CONECT   60  125  126  127
+CONECT   61   62  128  129
+CONECT   62   63  130  131
+CONECT   63   64  132  133
+CONECT   64   65   66  134
+CONECT   65  135  136  137
+CONECT   66  138  139  140
+END
