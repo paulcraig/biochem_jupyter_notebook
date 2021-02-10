@@ -68,9 +68,9 @@ variable_name = variable_value
 Let's see this in action with a calculation. Type the following into the next cell of your Jupyter notebook.
 ```
 # Calculations using the Michaelis-Menten Equation
-Km = 15.0                # Km = 15 microM
-Vmax = 100.0             # Vmax = 100.0 nanoM/sec
-S = 8.0                  # Substrate concentration is 8.0 microM
+Km = 15.0                # Km = 15 micromolar
+Vmax = 100.0             # Vmax = 100.0 nanomoles/sec
+S = 8.0                  # Substrate concentration is 8.0 micromolar
 Velocity = Vmax * S/(Km + S)    # Michaelis-Menten equation
 ```
 {: .language-python}
@@ -96,7 +96,7 @@ In the previous code block, we introduced the `print()` function.  Often, we wil
 Note that if you do not specify a new name for a variable, then it doesn't automatically change the value of the variable; this is called being *immutable*.  For example if we typed
 ```
 print(Velocity)
-V*1000
+Velocity*1000
 print(Velocity)
 ```
 {: .language-python}
@@ -109,8 +109,8 @@ print(Velocity)
 Nothing happened to the value of `Velocity`.  If we wanted to change the value of `Velocity` we would have to re-save the variable using the same name to overwrite the existing value.
 ```
 print(Velocity)
-V_nmol_per_min = Velocity * 60
-print(V_nmol_per_min)
+Velocity = Velocity * 60
+print(Velocity)
 ```
 {: .language-python}
 ```
@@ -121,16 +121,16 @@ print(V_nmol_per_min)
 
 There are situations where it is reasonable to overwrite a variable with a new value, but you should always think carefully about this.  Usually it is a better practice to give the variable a new name and leave the existing variable as is.  
 ```
-print(deltaG)
-deltaG_joules = deltaG*1000
-print(deltaG)
-print(deltaG_joules)
+print(Velocity)
+V_nmols_per_min = Velocity * 60
+print(Velocity)
+print(V_nmols_per_min)
 ```
 {: .language-python}
 ```
--3640700.0000000005
--3640700.0000000005
--3640700000.0000005
+34.78260869565217
+34.78260869565217
+2086.9565217391305
 ```
 {: .output}
 
@@ -139,21 +139,21 @@ Python can do what is called multiple assignment where you assign several variab
 
 ```
 #I can assign all these variables at once
-deltaH, deltaS, temp = -541.5, 10.4, 298
-deltaG = deltaH - temp*deltaS
-print(deltaG)
+Km, Vmax, S = 15.0, 100.0, 8.0
+Velocity = Vmax * S/(Km + S)
+print(Velocity)
 ```
 {: .language-python}
 
 ```
--3640.7000000000003
+34.78260869565217
 ```
 {: .output}
 
 ## Data types
 Each variable is some particular type of data.  The most common types of data are strings (`str`), integers (`int`), and floating point numbers (`float`).  You can identify the data type of any variable with the function `type(variable_name)`.
 ```
-type(deltaG)
+type(Velocity)
 ```
 {: .language.python}
 ```
@@ -162,8 +162,8 @@ float
 {: .output}
 You can change the data type of a variable like this.  This is called casting.
 ```
-deltaG_string = str(deltaG)
-type(deltaG_string)
+Velocity_string = str(Velocity)
+type(Velocity)
 ```
 {: .language-python}
 ```
@@ -171,46 +171,45 @@ str
 ```
 
 ## Lists
-Another common data structure in python is the list.  Lists can be used to group several values or variables together, and are declared using square brackets [ ]. List values are separated by commas. Python has several built in functions which can be used on lists. The built-in function `len` can be used to determine the length of a list. This code block also demonstrates how to print multiple variables.
+Another common data structure in python is the list.  Lists can be used to group several values or variables together, and are declared using square brackets [ ]. **Python assigns special meanings to square brackets [], parentheses () and curly brackets {}, so you must be very careful with these characters.** List values are separated by commas. Python has several built in functions which can be used on lists. The built-in function `len` can be used to determine the length of a list. This code block also demonstrates how to print multiple variables.
 ```
 # This is a list
-energy_kcal = [-13.4, -2.7, 5.4, 42.1]
+S = [1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 10.0, 15.0, 20.0, 30.0, 50.0, 75.0, 100.0] #micromolar
 # I can determine its length
-energy_length = len(energy_kcal)
-
-# print the list length
-print('The length of this list is', energy_length)
+S_length = len(S)
+# Print the length of the list
+print('This list contains', S_length, 'substrate concentrations')
 ```
 {: .language-python}
 
 ```
-The length of this list is 4
+The length of this list is 13.
 ```
 {: .output}
 
-If I want to operate on a particular element of the list, you use the list name and then put in brackets which element of the list you want.  **In python counting starts at zero.  So the first element of the list is `list[0]`**
+If you want to operate on a particular element of the list, you use the list name and then put in brackets which element of the list you want.  **In python counting starts at zero.  So the first element of the list is `list[0]`**
 
 ```
 # Print the first element of the list
-print(energy_kcal[0])
+print(S[0])
 ```
 {: .language-python}
 
 ```
--13.4
+1.0
 ```
 {: .output}
 
 You can use an element of a list as a variable in a calculation.  
 ```
-# Convert the second list element to kilojoules.
-energy_kilojoules = energy_kcal[1]*4.184
-print(energy_kilojoules)
+# Convert the last substrate concentration to nM
+S_nM = S[12] * 1000
+print(S_nM)
 ```
 {: .language-python}
 
 ```
--11.296800000000001
+100000.0
 ```
 {: .output}
 
@@ -223,16 +222,16 @@ new_list = list_name[start:end]
 
 When taking a slice, it is very important to remember how counting works in python.  Remember that counting starts at zero so the first element of a list is `list_name[0]`.  When you specify the last element for the slice, it goes *up to but not including* that element of the list.  So a slice like
 ```
-short_list = energy_kcal[0:2]
+short_list = S[0:3]
 ```
 {: .language-python}
-includes energy_kcal[0] and energy_kcal[1] but *not* energy_kcal[2].
+includes S[0], S[1] and S[2] but *not* S[3].
 ```
 print(short_list)
 ```
 {: .language-python}
 ```
-[-13.4, -2.7]
+[1.0, 2.0, 3.0]
 ```
 {: .output}
 
@@ -242,8 +241,8 @@ If you do not include a start index, the slice automatically starts at `list_nam
 >
 > What does the following code print?
 > ~~~
-> slice1 = energy_kcal[1:]
-> slice2 = energy_kcal[:3]
+> slice1 = S[8:]
+> slice2 = S[:3]
 > print('slice1 is', slice1)
 > print('slice2 is', slice2)
 > ~~~
@@ -252,8 +251,8 @@ If you do not include a start index, the slice automatically starts at `list_nam
 >> ## Answer
 >>
 >> ~~~
->> slice1 is [-2.7, 5.4, 42.1]
->> slice2 is [-13.4, -2.7, 5.4]
+>> slice1 is [20.0, 30.0, 50.0, 75.0, 100.0]
+>> slice2 is [1.0, 2.0, 3.0]
 >> ~~~
 >> {: .output}
 > {: .solution}
@@ -261,15 +260,15 @@ If you do not include a start index, the slice automatically starts at `list_nam
 
 If you don't specify a new variable name nothing happens. Looking at our example above if we only type
 ```
-print(energy_kcal)
-energy_kcal[0:2]
-print(energy_kcal)
+print(S)
+S[0:3]
+print(S)
 ```
 {: .language-python}
 nothing happens to `energy_kcal.
 ```
-[-13.4, -2.7, 5.4, 42.1]
-[-13.4, -2.7, 5.4, 42.1]
+[1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 10.0, 15.0, 20.0, 30.0, 50.0, 75.0, 100.0]
+[1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 10.0, 15.0, 20.0, 30.0, 50.0, 75.0, 100.0]
 ```
 {: .output}
 
@@ -282,19 +281,29 @@ for variable in list:
 ```
 {: .language-python}
 
-Indentation is very important in python.  There is nothing like an `end` or `exit` statement that tells you that you are finished with the loop.  The indentation shows you what statements are in the loop.  Let's use a loop to change all of our energies in kcal to kJ.
+Indentation is very important in python.  There is nothing like an `end` or `exit` statement that tells you that you are finished with the loop.  The indentation shows you what statements are in the loop.  Let's use a loop to calculate initial velocities for all the substrate concentration in our S list. 
 ```
-for number in energy_kcal:
-    kJ = number*4.184
-    print(kJ)
+S = [1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 10.0, 15.0, 20.0, 30.0, 50.0, 75.0, 100.0]
+for number in S:
+    Velocity = Vmax * number / (Km + number)
+    print(Velocity)
 ```
 {: .language-python}
 
 ```
--56.0656
--11.296800000000001
-22.593600000000002
-176.1464
+6.25
+11.764705882352942
+16.666666666666668
+21.05263157894737
+28.571428571428573
+34.78260869565217
+40.0
+50.0
+57.142857142857146
+66.66666666666667
+76.92307692307692
+83.33333333333333
+86.95652173913044
 ```
 {: .output}
 
@@ -306,58 +315,63 @@ list_name.append(new_thing)
 
 Try running this block of code.  See if you can figure out why it doesn't work.
 ```
-for number in energy_kcal:
-    kJ = number*4.184
-    energy_kJ.append(kJ)
-
-print(energy_kJ)
+S = [1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 10.0, 15.0, 20.0, 30.0, 50.0, 75.0, 100.0]
+for number in S:
+    V = Vmax * number / (Km + number)
+    Velocities.append(V)
+    
+print(Velocities)
 ```
 {: .language-python}
 ```
 ---------------------------------------------------------------------------
 NameError                                 Traceback (most recent call last)
-<ipython-input-12-595146886489> in <module>()
-      2 for number in energy_kcal:
-      3     kJ = number*4.184
-----> 4     energy_kJ.append(kJ)
-      5
-      6 print(energy_kJ)
+<ipython-input-22-1ca5fc0f564d> in <module>
+      2 for number in S:
+      3     V = Vmax * number / (Km + number)
+----> 4     Velocities.append(V)
+      5 
+      6 print(Velocities)
 
-NameError: name 'energy_kJ' is not defined
+NameError: name 'Velocities' is not defined
 ```
 {: .error}
 
-This code doesn't work because on the first iteration of our loop, the list `energy_kJ` doesn't exist.  To make it work, we have to start the list outside of the loop.  The list can be blank when we start it, but we have to start it.
+This code doesn't work because on the first iteration of our loop, the list `Velocities` doesn't exist.  To make it work, we have to start the list outside of the loop.  The list can be blank when we start it, but we have to start it.
 
 ```
-energy_kJ = []
-for number in energy_kcal:
-    kJ = number*4.184
-    energy_kJ.append(kJ)
-
-print(energy_kJ)
+Velocities = []
+S = [1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 10.0, 15.0, 20.0, 30.0, 50.0, 75.0, 100.0]
+for number in S:
+    V = Vmax * number / (Km + number)
+    Velocities.append(V)
+    
+print(Velocities)
 ```
 {: .language-python}
 
 ```
-[-56.0656, -12.1336, 22.593600000000002, 176.1464]
+[6.25, 11.764705882352942, 16.666666666666668, 21.05263157894737, 28.571428571428573, 34.78260869565217, 40.0, 50.0, 57.142857142857146, 66.66666666666667, 76.92307692307692, 83.33333333333333, 86.95652173913044]
 ```
 {: .output}
 
 ## Making choices: logic Statements
-Within your code, you may need to evaluate a variable and then do something if the variable has a particular value.  This type of logic is handled by an `if` statement.  In the following example, we only append the negative numbers to a new list.  
+Within your code, you may need to evaluate a variable and then do something if the variable has a particular value.  This type of logic is handled by an `if` statement.  In the following example, we are only going to use the lower substrate concentrations, as we might do when we are looking for the initial linear portion of a Michaelis-Menten curve. **As a biochemist, you may want to plot the data to see what you find. We will address plotting later in the workshop**
 ```
-negative_energy_kJ = []
+Km, Vmax = 15.0, 100.0
+linear_MM = []
 
-for number in energy_kJ:
-    if number<0:
-        negative_energy_kJ.append(number)
+S = [1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 10.0, 15.0, 20.0, 30.0, 50.0, 75.0, 100.0]
+for number in S:
+    if number < Km/4:
+        V_linear = Vmax * number / (Km + number)
+        linear_MM.append(V_linear)
 
-print(negative_energy_kJ)
+print(linear_MM)
 ```
 {: .language-python}
 ```
-[-56.0656, -11.296800000000001]
+[6.25, 11.764705882352942, 16.666666666666668]
 ```
 {: .output}
 Other logic operations include
@@ -370,33 +384,35 @@ Other logic operations include
 
 You can also use `and`, `or`, and `not` to check more than one condition.
 ```
-negative_numbers = []
-for number in energy_kJ:
-    if number<0 or number==0:
-        negative_numbers.append(number)
+S = [1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 10.0, 15.0, 20.0, 30.0, 50.0, 75.0, 100.0]
+V_at_or_below_Km = []
+for number in S:
+    if number <= Km or number == Km:
+        V = Vmax * number / (Km + number)
+        V_at_or_below_Km.append(V)
 
-print(negative_numbers)
+print(V_at_or_below_Km)
 ```
 {: .language-python}
 ```
-[-56.0656, -11.296800000000001]
+[6.25, 11.764705882352942, 16.666666666666668, 21.05263157894737, 28.571428571428573, 34.78260869565217, 40.0, 50.0]
 ```
 {: .output}
 
-If you are comparing strings, not numbers, you use different logic operators like `is`, `in`, or `is not`.  We will see these types of logic operators used in our next lesson.  
+If you are comparing strings, not numbers, you use different logic operators like `is`, `in`, or `is not`.  We will see these types of logic operators used in a future lesson.  
 
 >## Exercise
 >
-> The following list contains some floating point numbers and some numbers which  have been saved as strings.  Copy this list exactly into your code.
+> The following list contains some floating point numbers and some numbers which have been saved as strings.  Copy this list exactly into your code.
 > ~~~
-> data_list = ['-12.5', 14.4, 8.1, '42']
+> S_list = ['1.0', 2.0, 5.0, '14.0', 20.0]
 > ~~~
 > {: .language-python}
-> Set up a `for` loop to go over each element of `data_list`.  If the element is a string (`str`), recast it as a float.  Save *all* of the numbers to a new list called `number_list`.  Pay close attention to your indentation!
+> Set up a `for` loop to go over each element of `S_list`.  If the element is a string (`str`), recast it as a float.  Save *all* of the numbers to a new list called `number_list`.  Pay close attention to your indentation!
 >
 >> ## Solution
 >> ~~~
->> data_list = ['-12.5', 14.4, 8.1, '42']
+>> S_list = ['1.0', 2.0, 5.0, '14.0', 20.0]
 >> number_list = []
 >> for item in data_list:
 >>     if type(item) is str:
