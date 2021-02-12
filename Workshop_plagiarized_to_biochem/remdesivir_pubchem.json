@@ -1,0 +1,3840 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 121304016,
+    "RecordTitle": "Remdesivir",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions and information for 2D, 3D, and crystal related",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional representation of the compound",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional representation of the compound. The 3D structure is not experimentally determined, but computed by PubChem. More detailed information on this conformer model is described in the PubChem3D thematic series published in the Journal of Cheminformatics.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Description": "Remdesivir",
+                "Value": {
+                  "Number": [
+                    121304016
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Safety",
+        "Description": "Launch the Laboratory Chemical Safety Summary datasheet, and link to the safety and hazard section",
+        "DisplayControls": {
+          "HideThisSection": true,
+          "MoveToTop": true
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 28,
+            "Name": "Chemical Safety",
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "          ",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS08.svg",
+                      "Type": "Icon",
+                      "Extra": "Health Hazard"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Record identifiers, synonyms, chemical names, descriptors, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is a carboxylic ester resulting from the formal condensation of the carboxy group of N-[(S)-{[(2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl]methoxy}(phenoxy)phosphoryl]-L-alanine with the hydroxy group of 2-ethylbutan-1-ol. A broad-spectrum antiviral prodrug with potent in vitro antiviral activity against a diverse panel of RNA viruses such as Ebola virus, MERS-CoV and SARS-CoV. It is currently in Phase III clinical trials for the treatment of Covid-19 in adults. It has a role as an antiviral drug, a prodrug and an anticoronaviral agent. It is a carboxylic ester, a pyrrolotriazine, a nitrile, a phosphoramidate ester, a C-nucleoside and an aromatic amine. It derives from a GS-441524.",
+                      "Markup": [
+                        {
+                          "Start": 254,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxy",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-136114911"
+                        },
+                        {
+                          "Start": 271,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-ethylbutan-1-ol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-135993191"
+                        },
+                        {
+                          "Start": 638,
+                          "Length": 15,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pyrrolotriazine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-53629012"
+                        },
+                        {
+                          "Start": 747,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative agent of coronavirus disease 2019 (COVID-19), which is a respiratory disease that is capable of progressing to viral pneumonia and acute respiratory distress syndrome (ARDS); COVID-19 can be fatal. Like other RNA viruses, SARS-CoV-2 depends on an RNA-dependent RNA polymerase (RdRp) enzyme complex for genomic replication, which can be inhibited by a class of drugs known as nucleoside analogues.  Remdesivir (GS-5734) is an adenosine triphosphate analogue first described in the literature in 2016 as a potential treatment for Ebola. Broad antiviral activity of remdesivir is suggested by its mechanism of action, and to date, it has demonstrated in vitro activity against the Arenaviridae, Flaviviridae, Filoviridae, Paramyxoviridae, Pneumoviridae, and Coronaviridae viral families. Remdesivir activity against the Coronaviridae family was first demonstrated in 2017, leading to considerable interest in remdesivir as a possible treatment for COVID-19. Remdesivir was confirmed as a non-obligate chain terminator of RdRp from SARS-CoV-2 and the related SARS-CoV and MERS-CoV, and has been investigated in multiple COVID-19 clinical trials.  Based on aggregate data, remdesivir was granted an FDA Emergency Use Authorization (EUA) on May 1st, 2020. The FDA subsequently granted full approval for remdesivir as a COVID-19 treatment on October 22, 2020, while simultaneously updating the EUA to cover those patients not included under the approved indication. Remdesivir is currently marketed under the trademark name VEKLURY® by Gilead Sciences Inc.  Remdesivir in combination with [baricitinib] for the treatment of COVID-19, was granted an FDA Emergency Use Authorization on 19 Novermber 2020.",
+                      "Markup": [
+                        {
+                          "Start": 726,
+                          "Length": 8,
+                          "Type": "Italics"
+                        },
+                        {
+                          "Start": 756,
+                          "Length": 12,
+                          "Type": "Italics"
+                        },
+                        {
+                          "Start": 770,
+                          "Length": 12,
+                          "Type": "Italics"
+                        },
+                        {
+                          "Start": 784,
+                          "Length": 11,
+                          "Type": "Italics"
+                        },
+                        {
+                          "Start": 797,
+                          "Length": 15,
+                          "Type": "Italics"
+                        },
+                        {
+                          "Start": 814,
+                          "Length": 13,
+                          "Type": "Italics"
+                        },
+                        {
+                          "Start": 833,
+                          "Length": 13,
+                          "Type": "Italics"
+                        },
+                        {
+                          "Start": 895,
+                          "Length": 13,
+                          "Type": "Italics"
+                        },
+                        {
+                          "Start": 488,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-5734",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121304016"
+                        },
+                        {
+                          "Start": 503,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/adenosine%20triphosphate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 1661,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/baricitinib",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44205240"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Description": "LiverTox Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is an antiviral nucleotide analogue used for therapy of severe novel coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome (SARS) coronavirus 2 (CoV-2) infection. Remdesivir therapy is given intravenously for 5 to 10 days and is frequently accompanied by transient, reversible mild-to-moderate elevations in serum aminotransferase levels but has been only rarely linked to instances of clinically apparent liver injury, its hepatic effects being overshadowed by the systemic effects of COVID-19."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 23,
+                "Name": "Record Description",
+                "Description": "Pharmacology",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is a prodrug of an adenosine triphosphate (ATP) analog, with potential antiviral activity against a variety of RNA viruses. Upon administration, remdesivir, being a prodrug, is metabolized into its active form GS-441524. As an ATP analog, GS-441524 competes with ATP for incorporation into RNA and inhibits the action of viral RNA-dependent RNA polymerase. This results in the termination of RNA transcription and decreases viral RNA production.",
+                      "Markup": [
+                        {
+                          "Start": 30,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/adenosine%20triphosphate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 54,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 221,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        },
+                        {
+                          "Start": 238,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 250,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        },
+                        {
+                          "Start": 274,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Descriptors generated from chemical structure input",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name computed from chemical structure that uses International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "http://old.iupac.org/publications/books/seriestitles/nomenclature.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by LexiChem 2.6.6 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-ethylbutyl (2S)-2-[[[(2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxyoxolan-2-yl]methoxy-phenoxyphosphoryl]amino]propanoate",
+                          "Markup": [
+                            {
+                              "Start": 15,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 25,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 28,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 31,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 34,
+                              "Length": 1,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "International Chemical Identifier (InChI) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C27H35N6O8P/c1-4-18(5-2)13-38-26(36)17(3)32-42(37,41-19-9-7-6-8-10-19)39-14-21-23(34)24(35)27(15-28,40-21)22-12-11-20-25(29)30-16-31-33(20)22/h6-12,16-18,21,23-24,34-35H,4-5,13-14H2,1-3H3,(H,32,37)(H2,29,30,31)/t17-,21+,23+,24+,27-,42-/m0/s1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI Key",
+                "Description": "International Chemical Identifier hash (InChIKey) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "RWWYLEGWBNMMLJ-YSOARWBDSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Canonical SMILES",
+                "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure devoid of isotopic and stereochemical information.",
+                "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by OEChem 2.1.5 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CCC(CC)COC(=O)C(C)NP(=O)(OCC1C(C(C(O1)(C#N)C2=CC=C3N2N=CN=C3N)O)O)OC4=CC=CC=C4"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isomeric SMILES",
+                "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure containing isotopic and stereochemical information.  SMILES written with isotopic and chiral specifications are collectively known as \"isomeric SMILES\".",
+                "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by OEChem 2.1.5 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@@H]1[C@H]([C@H]([C@](O1)(C#N)C2=CC=C3N2N=CN=C3N)O)O)OC4=CC=CC=C4"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example \"H2SO4\" for sulfuric acid, rather than the Hill version \"H2O4S.\"",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Reference": [
+                  "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C27H35N6O8P"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Important identifiers assigned to this chemical substance by authoritative organizations",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS) often used to help describe chemical ingredients.",
+                "URL": "http://en.wikipedia.org/wiki/CAS_Registry_Number",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1809249-37-3"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1809249-37-3"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "A non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA) known as an UNique Ingredient Identifier (UNII) code.",
+                "URL": "http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "UNII",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3QKI37EEHE"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikipedia",
+                "Description": "Links to Wikipedia or wikidata for this record.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Remdesivir",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Remdesivir"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names).",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-ethylbutyl (2S)-2-(((2R, 3S, 4R, 5R)-5-(4-aminopyrrolo(2,1-f) (1,2,4)triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl) methoxy)(phenoxy) phosphoryl) amino) propanoate"
+                        },
+                        {
+                          "String": "GS 5734"
+                        },
+                        {
+                          "String": "GS-5734"
+                        },
+                        {
+                          "String": "l-alanine, N-((S)-hydroxyphenoxyphosphinyl)-, 2-ethylbutyl ester, 6-ester with 2-C-(4-aminopyrrolo(2,1-f)(1,2,4)triazin-7-yl)-2,5-anhydro-d-altrononitrile"
+                        },
+                        {
+                          "String": "remdesivir"
+                        },
+                        {
+                          "String": "Veklury"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1809249-37-3"
+                        },
+                        {
+                          "String": "3QKI37EEHE"
+                        },
+                        {
+                          "String": "GS 5734"
+                        },
+                        {
+                          "String": "GS 5734 [WHO-DD]"
+                        },
+                        {
+                          "String": "GS-5734"
+                        },
+                        {
+                          "String": "GS5734"
+                        },
+                        {
+                          "String": "Remdesivir"
+                        },
+                        {
+                          "String": "REMDESIVIR [INN]"
+                        },
+                        {
+                          "String": "Remdesivir [USAN]"
+                        },
+                        {
+                          "String": "REMDESIVIR [WHO-DD]"
+                        },
+                        {
+                          "String": "remdesivirum"
+                        },
+                        {
+                          "String": "UNII-3QKI37EEHE"
+                        },
+                        {
+                          "String": "Veklury"
+                        },
+                        {
+                          "String": "2-Ethylbutyl (2S)-2-(((S)-(((2R,3S,4R,5R)-5-(4-aminopyrrolo(2,1-f)(1,2,4)triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)amino)propanoate"
+                        },
+                        {
+                          "String": "2-ethylbutyl (2S)-2-[[[(2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxyoxolan-2-yl]methoxy-phenoxyphosphoryl]amino]propanoate"
+                        },
+                        {
+                          "String": "2-ethylbutyl (2S)-2-{[(S)-{[(2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl]methoxy}(phenoxy)phosphoryl]amino}propanoate"
+                        },
+                        {
+                          "String": "Veklury (TN)"
+                        },
+                        {
+                          "String": "Remdesivir (JAN/USAN)"
+                        },
+                        {
+                          "String": "Remdesivir (GS-5734)"
+                        },
+                        {
+                          "String": "CHEMBL4065616"
+                        },
+                        {
+                          "String": "SCHEMBL17712225"
+                        },
+                        {
+                          "String": "GTPL10715"
+                        },
+                        {
+                          "String": "med.21724, Compound 178"
+                        },
+                        {
+                          "String": "CHEBI:145994"
+                        },
+                        {
+                          "String": "BDBM429505"
+                        },
+                        {
+                          "String": "EX-A3265"
+                        },
+                        {
+                          "String": "s8932"
+                        },
+                        {
+                          "String": "BCP24975-1"
+                        },
+                        {
+                          "String": "DB14761"
+                        },
+                        {
+                          "String": "DT-0049"
+                        },
+                        {
+                          "String": "SB19838"
+                        },
+                        {
+                          "String": "compound 4b [PMID: 28124907]"
+                        },
+                        {
+                          "String": "NCGC00686694-01"
+                        },
+                        {
+                          "String": "L-Alanine, N-((S)-hydroxyphenoxyphosphinyl)-, 2-ethylbutyl ester, 6-ester with 2-C-(4-aminopyrrolo(2,1-f)(1,2,4)triazin-7-yl)-2,5-anhydro-D-altrononitrile"
+                        },
+                        {
+                          "String": "HY-104077"
+                        },
+                        {
+                          "String": "CS-0028115"
+                        },
+                        {
+                          "String": "D11472"
+                        },
+                        {
+                          "String": "(2S)-2-{(2R,3S,4R,5R)-[5-(4-Aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxy-tetrahydro-furan-2-ylmethoxy]phenoxy-(S)-phosphorylamino}propionic acid 2-ethyl-butyl ester"
+                        },
+                        {
+                          "String": "(S)-2-ethylbutyl 2-(((S)-(((2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)amino)propanoate"
+                        },
+                        {
+                          "String": "(S)-2-Ethylbutyl 2-((S)-(((2R,3S,4R,5R)-5-(4-aminopyrrolo[1,2-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphorylamino)propanoate"
+                        },
+                        {
+                          "String": "2-ethylbutyl (2S)-2-{[(S)-{[(2R,3S,4R,5R)-5-{4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl}-5-cyano-3,4-dihydroxyoxolan-2-yl]methoxy}(phenoxy)phosphoryl]amino}propanoate"
+                        },
+                        {
+                          "String": "2-ethylbutyl N-[(S)-{[(2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl]methoxy}(phenoxy)phosphoryl]-L-alaninate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "RWWYLEGWBNMMLJ-YSOARWBDSA-N"
+                        },
+                        {
+                          "String": "C000606551"
+                        },
+                        {
+                          "String": "1644342-14-2"
+                        },
+                        {
+                          "String": "2-ethylbutyl (2S)-2-(((2R, 3S, 4R, 5R)-5-(4-aminopyrrolo(2,1-f) (1,2,4)triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl) methoxy)(phenoxy) phosphoryl) amino) propanoate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date the compound record was initially added to PubChem",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Value": {
+                  "DateISO8601": [
+                    "2016-08-06"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date this record was last updated in PubChem",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Value": {
+                  "DateISO8601": [
+                    "2021-02-07"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Chemical and physical properties such as melting point, molecular weight, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties computed automatically from the given chemical structure",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        602.6
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "Computed Octanol/Water Partition Coefficient",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "XLogP3-AA",
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1.9
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in the structure.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in the structure.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        13
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        14
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        602.225399
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        602.225399
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) of a molecule is defined as the surface sum over all polar atoms in a molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        204
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "A heavy atom is defined as any atom except hydrogen in a chemical structure.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        42
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1010
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope Atom Count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        6
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "The number of separate chemical structures not connected by covalent bonds.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "Computed by PubChem (release 2019.01.04)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Related compounds/substances information based on the similar structure, annotations, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "The subset of compounds that are related to the one currently displayed AND that have biomedical annotations.",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely associated to this record.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "Same Connectivity Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound_sameconnectivity_pulldown&from_uid=121304016",
+                "Value": {
+                  "Number": [
+                    11
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 28,
+                "Name": "Same Stereo Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound_samestereochem_pulldown&from_uid=121304016",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 28,
+                "Name": "Same Isotope Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound_sameisotopic_pulldown&from_uid=121304016",
+                "Value": {
+                  "Number": [
+                    10
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 28,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound_parent_connectivity_pulldown&from_uid=121304016",
+                "Value": {
+                  "Number": [
+                    14
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 28,
+                "Name": "Same Parent, Stereo Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound_parent_stereo_pulldown&from_uid=121304016",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 28,
+                "Name": "Same Parent, Isotope Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound_parent_isotopes_pulldown&from_uid=121304016",
+                "Value": {
+                  "Number": [
+                    13
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 28,
+                "Name": "Similar Compounds Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound&from_uid=121304016",
+                "Value": {
+                  "Number": [
+                    954
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records linked to this compound.",
+            "Section": [
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substances identical or nearly identical to this record.",
+                "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/substances",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "Same Count",
+                    "URL": "https://www.ncbi.nlm.nih.gov/pcsubstance/?term=121304016[StandardizedCID]",
+                    "Value": {
+                      "Number": [
+                        31
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substance category according to the depositors. Substance Categorization Classification - The subheaders in this section of a PubChem Compound record reflect the various categories of depositors that have submitted corresponding PubChem Substance records. This allows you to quickly find the corresponding PubChem Substance records that are likely to contain a given type of information, such as Chemical Reactions.",
+                "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/substances",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "NIH Initiatives"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "PubMed Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=121304016",
+                "Value": {
+                  "Number": [
+                    26
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 28,
+                "Name": "OMIM Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_omim&db=pccompound&cmd=Link&from_uid=121304016",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound.  Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purcharsable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors.",
+        "Information": [
+          {
+            "ReferenceNumber": 28,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "Drug and medication information from multiple sources.",
+        "Section": [
+          {
+            "TOCHeading": "Drug Indication",
+            "Description": "Drug Indication information from various sources.",
+            "DisplayControls": {
+              "ShowAtMost": 3
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is indicated for the treatment of adult and pediatric patients aged 12 years and over weighing at least 40 kg for coronavirus disease 2019 (COVID-19) infection requiring hospitalization. Under this indication, remdesivir should only be administered in a hospital or other healthcare setting capable of providing acute care comparable to an inpatient hospital setting.[L18438]  Remdesivir was originally granted FDA Emergency Use Authorization (EUA)[L12609] on May 1, 2020, for use in adults and children with suspected or confirmed COVID-19 in a hospital setting with an SpO2 ≤94%.[L13239] Following FDA approval, this EUA was revised to cover hospitalized pediatric patients between 3.5 and 40 kg, as well as those under 12 years of age that weigh at least 3.5 kg, with suspected or laboratory-confirmed COVID-19.[L13236]  Under both the on-label and EUA indications, patients not needing invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO) should be treated for 5 days (including the loading dose on day 1) and may be extended up to 10 days if they do not show improvement. Patients requiring invasive mechanical ventilation or ECMO should be treated for 10 days.[L13239, L18438]"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Drug Indication",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Veklury is indicated for the treatment of coronavirus disease 2019 (COVID-19) in adults and adolescents (aged 12 years and older with body weight at least 40 kg) with pneumonia requiring supplemental oxygen. ",
+                      "Markup": [
+                        {
+                          "Start": 200,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Oxygen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Drug Indication",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Treatment of Coronavirus disease 2019"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "LiverTox Summary",
+            "Description": "This section provides an overview of drug induced liver injury, diagnostic criteria, assessment of causality and severity, descriptions of different clinical patterns (phenotypes), information on management and treatment, and standardized nomenclature.  The role of liver biopsy and major histological patterns of drug induced liver disease are also given.",
+            "URL": "https://livertox.nlm.nih.gov/aboutus.html",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is an antiviral nucleotide analogue used for therapy of severe novel coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome (SARS) coronavirus 2 (CoV-2) infection. Remdesivir therapy is given intravenously for 5 to 10 days and is frequently accompanied by transient, reversible mild-to-moderate elevations in serum aminotransferase levels but has been only rarely linked to instances of clinically apparent liver injury, its hepatic effects being overshadowed by the systemic effects of COVID-19."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Drug Classes",
+            "Description": "Drug classes information from various sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Antiviral Agents"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Orange Book",
+            "Description": "The Orange Book identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act.",
+            "URL": "https://www.fda.gov/Drugs/DevelopmentApprovalProcess/ucm079068.htm",
+            "Information": [
+              {
+                "ReferenceNumber": 12,
+                "Value": {
+                  "ExternalTableName": "fdaorangebook",
+                  "ExternalTableNumRows": 1
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Drug Labels for Ingredients",
+            "Description": "This section contains the drug label information for given drug ingredients (compounds) from DailyMed.  DailyMed provides trustworthy information about marketed drugs in the United States. DailyMed is the official provider of FDA label information (package inserts).",
+            "URL": "https://dailymed.nlm.nih.gov/dailymed/",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "Label Title",
+                "Description": "The drug title on the given label.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Label Information",
+                    "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=REMDESIVIR",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Total 2 labels"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Label Ingredient",
+                "Description": "The drug ingredient in the given label.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Drug Ingredient",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "REMDESIVIR"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NDC Code(s)",
+                "Description": "The related NDC code(s) for the drug.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "NDC Code(s)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "61958-2901-1, 61958-2901-2, 61958-2902-1, 61958-2902-2"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Packager",
+                "Description": "The manufacture company.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Packagers",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gilead Sciences, Inc."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Clinical Trials",
+            "Description": "Clinical trials are research studies performed in people that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people.",
+            "Section": [
+              {
+                "TOCHeading": "ClinicalTrials.gov",
+                "Description": "The brief clinical trials summary from the ClinicalTrials.gov at the U.S. National Library of Medicine.",
+                "URL": "https://clinicaltrials.gov/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "ClinicalTrials.gov",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials",
+                      "ExternalTableNumRows": 43
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EU Clinical Trials Register",
+                "Description": "The clinical trials summary from the EU Clinical Trials Register.",
+                "URL": "https://www.clinicaltrialsregister.eu/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "EU Clinical Trials Register",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials_eu",
+                      "ExternalTableNumRows": 13
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EMA Drug Information",
+            "Description": "Drug and medicines information from the European Medicines Agency (EMA)",
+            "URL": "https://www.ema.europa.eu/en/medicines",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Name": "Medicine",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Veklury"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Therapeutic area",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Coronavirus Infections"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Active Substance",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "remdesivir"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "INN/Common name",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "remdesivir"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Status",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "This medicine is authorized for use in the European Union"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Company",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Gilead Sciences Ireland UC"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Market Date",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2020-07-03"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Active Substance",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "remdesivir"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Therapeutic Area",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Infectious diseases"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Drug Form",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Powder for concentrate for solution for infusion, Concentrate for solution for infusion"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Administration Route",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Intravenous use"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Decision Type",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "P: decision agreeing on a investigation plan, with or without partial waiver(s) and or deferral(s)"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Decision Date",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2020-05-19"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this record",
+        "Section": [
+          {
+            "TOCHeading": "Pharmacology",
+            "Description": "Pharmacology information related to this record",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is a nucleoside analog used to inhibit the action of RNA polymerase.[A191400] The duration of action is moderate, as it is given once daily.[L13239] Due to much higher selectivity of mammalian DNA and RNA polymerases, including human mitochondrial RNA polymerase, for ATP over remdesivir triphosphate, remdesivir is not a significant inhibitor of these enzymes, which contributes to its overall tolerability and safety profile.[A222398, L18438] Despite this, remdesivir carries risks for hypersensitivity reactions, including anaphylaxis and other infusion-related reactions, elevated transaminase levels, and potential decreased efficacy when combined with [hydroxychloroquine] or [chloroquine].[L13239, L18438]",
+                      "Markup": [
+                        {
+                          "Start": 279,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 670,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxychloroquine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3652"
+                        },
+                        {
+                          "Start": 694,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloroquine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-2719"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 23,
+                "Name": "Pharmacology",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is a prodrug of an adenosine triphosphate (ATP) analog, with potential antiviral activity against a variety of RNA viruses. Upon administration, remdesivir, being a prodrug, is metabolized into its active form GS-441524. As an ATP analog, GS-441524 competes with ATP for incorporation into RNA and inhibits the action of viral RNA-dependent RNA polymerase. This results in the termination of RNA transcription and decreases viral RNA production.",
+                      "Markup": [
+                        {
+                          "Start": 30,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/adenosine%20triphosphate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 54,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 221,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        },
+                        {
+                          "Start": 238,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 250,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        },
+                        {
+                          "Start": 274,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MeSH Pharmacological Classification",
+            "Description": "Pharmacological action classes that provided by MeSH",
+            "Information": [
+              {
+                "ReferenceNumber": 36,
+                "Name": "Antimetabolites",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Drugs that are chemically similar to naturally occurring metabolites, but differ enough to interfere with normal metabolic pathways. (From AMA Drug Evaluations Annual, 1994, p2033) (See all compounds classified as Antimetabolites.)",
+                      "Markup": [
+                        {
+                          "Start": 186,
+                          "Length": 43,
+                          "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?Db=pccompound&DbFrom=mesh&Cmd=Link&LinkName=mesh_pccompound&IdsFromResult=68000963"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 37,
+                "Name": "Antiviral Agents",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Agents used in the prophylaxis or therapy of VIRUS DISEASES. Some of the ways they may act include preventing viral replication by inhibiting viral DNA polymerase; binding to specific cell-surface receptors and inhibiting viral penetration or uncoating; inhibiting viral protein synthesis; or blocking late stages of virus assembly. (See all compounds classified as Antiviral Agents.)",
+                      "Markup": [
+                        {
+                          "Start": 338,
+                          "Length": 44,
+                          "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?Db=pccompound&DbFrom=mesh&Cmd=Link&LinkName=mesh_pccompound&IdsFromResult=68000998"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Absorption, Distribution and Excretion",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Name": "Absorption",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is absorbed quickly; maximal plasma concentrations following a single 30-minute intravenous infusion are reached within 0.67-0.68 hours (T<sub>max</sub>). Repeated dosing yields a C<sub>max</sub> (coefficient of variation as a percent) of 2229 (19.2) ng/mL and an AUC<sub>tau</sub> of 1585 (16.6) ng\\*h/mL.[L18438]  Remdesivir metabolite [GS-441524] has measured values: T<sub>max</sub> 1.51-2.00 hours, C<sub>max</sub> 145 (19.3) ng/mL, AUC<sub>tau</sub> 2229 (18.4) ng\\*h/mL, and C<sub>trough</sub> 69.2 (18.2) ng/mL. Another metabolite, GS-704277, has measured values: T<sub>max</sub> 0.75 hours, C<sub>max</sub> 246 (33.9) ng/mL, AUC<sub>tau</sub> 462 (31.4) ng\\*h/mL, and an undetermined C<sub>trough</sub>.[L18438]  A 10mg/kg intravenous dose given to cynomolgus monkeys distributes to the testes, epididymis, eyes, and brain within 4h.[A191379]",
+                      "Markup": [
+                        {
+                          "Start": 350,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        },
+                        {
+                          "Start": 551,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-704277",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121313150"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Name": "Route of Elimination",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is 74% eliminated in the urine and 18% eliminated in the feces.[L13239] 49% of the recovered dose is in the form of the metabolite [GS-441524], and 10% is recovered as the unmetabolized parent compound.[L13239] A small amount (0.5%) of the [GS-441524] metabolite is found in feces.[L18438]",
+                      "Markup": [
+                        {
+                          "Start": 143,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        },
+                        {
+                          "Start": 252,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Name": "Volume of Distribution",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Data regarding the volume of distribution of remdesivir is not readily available."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Name": "Clearance",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Data regarding the clearance of remdesivir is not readily available."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Metabolism/Metabolites",
+            "Description": "Metabolism/Metabolites information related to the record",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir is a phosphoramidate prodrug that must be metabolized within host cells to its triphosphate metabolite to be therapeutically active.[A191379, A191382, A222468] Upon cell entry, remdesivir is presumed to undergo first esterase-mediated hydrolysis to a carboxylate form followed by cyclization to eject the phenoxide moiety and finally hydrolysis of the cyclic anhydride to yield the detectable alanine metabolite (GS-704277).[A222468] The alanine metabolite is subsequently hydrolyzed to yield the monophosphate form of remdesivir, which is either hydrolyzed again to yield the bare nucleoside metabolite [GS-441524] or phosphorylated by cellular kinases to yield the active triphosphate form.[A191379, A222468]",
+                      "Markup": [
+                        {
+                          "Start": 16,
+                          "Length": 15,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphoramidate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-211207"
+                        },
+                        {
+                          "Start": 316,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenoxide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-20475184"
+                        },
+                        {
+                          "Start": 404,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alanine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5950"
+                        },
+                        {
+                          "Start": 424,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-704277",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121313150"
+                        },
+                        {
+                          "Start": 449,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alanine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5950"
+                        },
+                        {
+                          "Start": 616,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Biological Half-Life",
+            "Description": "Biological Half-Life information related to the record",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Remdesivir has an elimination half-life of 1 hour following a single 30-minute intravenous infusion. Under the same conditions, the elimination half-lives of the remdesivir metabolites [GS-441524] and GS-704277 are 27 hours and 1.3 hours, respectively.[L18438]   A 10mg/kg intravenous dose in non-human primates has a plasma half-life of 0.39h.[A191379] The nucleoside triphosphate metabolite has a half-life of 14h in non-human primates.[A191379] The nucleoside triphosphate metabolite has a half-life of approximately 20 hours in humans.[A191382]",
+                      "Markup": [
+                        {
+                          "Start": 186,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        },
+                        {
+                          "Start": 201,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-704277",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121313150"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Mechanism of Action",
+            "Description": "Mechanism of Action  information related to the record",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "COVID-19 is caused by the positive-sense RNA virus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Replication of the viral genome is a key step in the infectious cycle of RNA viruses, including those of the _Filoviridae_, _Paramyxoviridae_, _Pneumoviridae_, and _Coronaviridae_ families, and is carried out by viral RNA-dependent RNA polymerase (RdRp) enzymes or enzyme complexes.[A222393, A222398] For both SARS-CoV and SARS-CoV-2, the RdRp comprises nsp7, nsp8, and nsp12 subunits under physiological conditions, although functional RdRp complexes can be reassembled _in vitro_ that incorporate only the nsp8 and nsp12 subunits, similar to the Middle East respiratory syndrome coronavirus (MERS-CoV).[A222398]  Remdesivir is a phosphoramidite prodrug of a 1'-cyano-substituted adenosine nucleotide analogue that competes with ATP for incorporation into newly synthesized viral RNA by the corresponding RdRp complex.[A222398] Remdesivir enters cells before being cleaved to its monophosphate form through the action of either carboxylesterase 1 or cathepsin A; it is subsequently phosphorylated by undescribed kinases to yield its active triphosphate form remdesivir triphosphate (RDV-TP or GS-443902).[A222393, L18438] RDV-TP is efficiently incorporated by the SARS-CoV-2 RdRp complex, with a 3.65-fold selectivity for RDV-TP over endogenous ATP.[A222398, L18438] Unlike some nucleoside analogues, remdesivir provides a free 3'-hydroxyl group that allows for continued chain elongation.[A222398, L18438] However, modelling and _in vitro_ experiments suggest that at _i_ + 4 (corresponding to the position for the incorporation of the fourth nucleotide following RDV-TP incorporation), the 1'-cyano group of remdesivir sterically clashes with Ser-861 of the RdRp, preventing further enzyme translocation and terminating replication at position _i_ + 3. This mechanism was essentially identical between SARS-CoV, SARS-CoV-2, and MERS-CoV, and genomic comparisons reveal that Ser-861 is conserved across alpha-, beta-, and deltacoronaviruses, suggesting remdesivir may possess broad antiviral activity.[A222398]  Considerations for the use of nucleotide analogues like remdesivir include the possible accumulation of resistance mutations. Excision of analogues through the 3'-5' exonuclease (ExoN) activity of replication complexes, mediated in SARS-CoV by the nsp14 subunit, is of possible concern.[A222398] Murine hepatitis viruses (MHVs) engineered to lack ExoN activity are approximately 4-fold more susceptible to remdesivir, supporting the proposed mechanism of action.[A191400] However, the relatively mild benefit of ExoN activity to remdesivir resistance is proposed to involve its delayed chain termination mechanism, whereby additional endogenous nucleotides are incorporated following RDV-TP.[A222398] In addition, serial passage of MHV in increasing concentrations of the remdesivir parent molecule [GS-441524] led to the development of resistance mutations F476L and V553L, which maintain activity when transferred to SARS-CoV. However, these mutant viruses are less fit than wild-type in both competition assays and _in vivo_ in the absence of selective pressure.[A191400] To date, no clinical data on SARS-CoV-2 resistance to remdesivir have been described.[L18438]",
+                      "Markup": [
+                        {
+                          "Start": 744,
+                          "Length": 15,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphoramidite",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-10080320"
+                        },
+                        {
+                          "Start": 843,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 1207,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-443902",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-56832906"
+                        },
+                        {
+                          "Start": 1359,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 2927,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44468216"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "The use and manufacture of the chemical and related information",
+        "Section": [
+          {
+            "TOCHeading": "Use Classification",
+            "Description": "This section contains use classification/category information from various sources",
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Name": "EMA Drug Category",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Human drugs (Veklury)"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Use Classification",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Human Drugs -> EU pediatric investigation plans"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Human Drugs -> FDA Approved Drug Products with Therapeutic Equivalence Evaluations (Orange Book) -> Active Ingredients"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Safety and Hazards",
+        "Description": "Safety and hazards information, properties, management techniques, reactivities and incompatibilities, first aid treatments, and more. For toxicity and related information, please visit Toxicity section.",
+        "Section": [
+          {
+            "TOCHeading": "Hazards Identification",
+            "Description": "Hazards Identification includes all hazards regarding the chemical; required label elements",
+            "Section": [
+              {
+                "TOCHeading": "GHS Classification",
+                "Description": "GHS (Globally Harmonized System of Classification and Labelling of Chemicals) is a United Nations system to identify hazardous chemicals and to inform users about these hazards. GHS has been adopted by many countries around the world and is now also used as the basis for international and national transport regulations for dangerous goods. The GHS hazard statements, class categories, pictograms, signal words, and the precautionary statements can be found on the PubChem GHS page.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Pictogram(s)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "          ",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS08.svg",
+                              "Type": "Icon",
+                              "Extra": "Health Hazard"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Signal",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Warning",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "GHS Hazard Statements",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "H373 (100%): Causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+                          "Markup": [
+                            {
+                              "Start": 77,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Precautionary Statement Codes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "P260, P314, and P501"
+                        },
+                        {
+                          "String": "(The corresponding statement to each P-code can be found at the GHS Classification page.)",
+                          "Markup": [
+                            {
+                              "Start": 64,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#_prec"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "ECHA C&L Notifications Summary",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The GHS information provided by 1 company from 1 notification to the ECHA C&L Inventory.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 92,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hazard Classes and Categories",
+                "Description": "The Hazard Classes and Categories are aligned with GHS (Globally Harmonized System of Classification and Labelling of Chemicals) hazard statement codes. More info can be found at the PubChem GHS summary page. The percentage data in the parenthesis from ECHA indicates that the hazard classes and categories information are consolidated from multiple companies, see the detailed explanation from the above GHS classification section.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "STOT RE 2 (100%)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this record, includes routes of exposure; related symptoms, acute and chronic effects; numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "Toxicological Information",
+            "Section": [
+              {
+                "TOCHeading": "Hepatotoxicity",
+                "Description": "This section provides a short description about the hepatotoxicity that associated with the agent, the rate of serum enzyme elevations during use, and the frequency and character of the clinically apparent liver injury associated with the medication.",
+                "URL": "https://www.ncbi.nlm.nih.gov/books/NBK547852/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In human volunteer studies, remdesivir therapy given for 7 to 14 days was associated with minor serum aminotransferase elevations (less than 5 times ULN) but without other evidence of hepatic injury. In controlled trials of remdesivir in patients hospitalized with COVID-19, rates of serum ALT elevations were similar or lower in patients receiving remdesivir than in those on placebo. Nevertheless, in most uncontrolled studies and case series, between 10% and 50% of patients treated with remdesivir developed transient, mild-to-moderate serum ALT and AST elevations within 1 to 5 days of starting therapy without changes in serum bilirubin or alkaline phosphatase levels. Elevations above 5 times ULN were reported in up to 9% of patients in several clinical trials, but the abnormalities resolved with discontinuation and were not associated with clinically apparent injury. With more widespread use of remdesivir for COVID-19, rare instances of marked ALT elevations with jaundice have been reported, but largely in patients who were critically ill with multi-organ failure or sepsis, or who had received other potentially hepatotoxic agents such as intravenous amiodarone (Case 2). Confounding the issue is that serum aminotransferase elevations are common during symptomatic SARS-CoV-2 infection (Case 1), present in up to 60% of patients and being more frequent in patients with severe disease and in those with the known risk factors for COVID-19 severity such as male sex, older age, higher body mass index and diabetes. Thus, serum aminotransferase elevations are common during remdesivir therapy but are generally asymptomatic, fully reversible and not associated with jaundice. With more widespread use of this antiviral in patients without severe or critical illness and with longer courses of therapy, features of hepatotoxicity may become more evident.",
+                          "Markup": [
+                            {
+                              "Start": 633,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bilirubin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280352"
+                            },
+                            {
+                              "Start": 1167,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/amiodarone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2157"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Likelihood score: D (possible uncommon cause of clinically apparent liver injury)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Toxicity Summary",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Data regarding overdoses of remdesivir are not readily available.[L13239] Overdoses of other nucleoside analogs like acyclovir can be managed with symptomatic and supportive treatment.[A191472]",
+                          "Markup": [
+                            {
+                              "Start": 117,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acyclovir",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398513"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Protein Binding",
+                "Description": "Protein Binding",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Remdesivir is 88-93.6% bound to human plasma proteins while its metabolites [GS-441524] and GS-704277 are 2% and 1% bound, respectively.[L18438]",
+                          "Markup": [
+                            {
+                              "Start": 77,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-441524",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-44468216"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-704277",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-121313150"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disease information available for this compound",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 4,
+            "Value": {
+              "ExternalTableName": "ctd_chemical_disease"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Literature citation references mainly refers to regular publications such as journal articles, etc.",
+        "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/literature",
+        "Section": [
+          {
+            "TOCHeading": "Coronavirus Studies",
+            "Description": "Literature references aggregated from multiple sources including PubMed and ClinicalTrials.gov. For additional clinical studies, see clinical trials section.",
+            "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/covid-19",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "ExternalTableName": "literature_coronavirus",
+                  "ExternalTableNumRows": 932
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NLM Curated PubMed Citations",
+            "Description": "The \"NLM Curated PubMed Citations\" section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=121304016",
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Springer Nature References",
+            "Description": "Literature references related to scientific contents from Springer Nature journals and books. These references have been ranked automatically by an algorithm which calculates the relevance for each substance in a Springer Nature document. It is based on: 1. the TF-IDF, adapted to chemical structures, 2. location information in the text (e.g. title, abstract, keywords), and 3. the document size.  Springer Nature aims to provide only high qualitative and relevant content but references of lower relevance aren't withheld as they might contain also very useful information",
+            "URL": "https://group.springernature.com/gp/group/aboutus",
+            "Information": [
+              {
+                "ReferenceNumber": 25,
+                "Name": "Springer Nature References",
+                "Value": {
+                  "ExternalTableName": "springernature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Thieme References",
+            "Description": "Literature references related to scientific contents from Thieme Chemistry journals and books. The Thieme Chemistry content within this section is provided under a CC-BY-NC-ND 4.0 license (https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.",
+            "URL": "https://www.thieme.de/en/thieme-chemistry/home-51399.htm",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Thieme References",
+                "Value": {
+                  "ExternalTableName": "ThiemeChemistry"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Depositor Provided PubMed Citations",
+            "Description": "This section displays a concatenated list of all PubMed records that have been cited by the depositors of all PubChem Substance records that contain the same chemical structure as the compound.",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "Depositor Provided PubMed Citations",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=121304016",
+                "Value": {
+                  "ExternalTableName": "collection=pubmed&pmidsrcs=xref",
+                  "ExternalTableNumRows": 26
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synthesis References",
+            "Description": "References that are related to the preparation and synthesis reaction.",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Byoung Kwon Chun, Michael O'Neil Hanrahan Clarke, Edward Doerffler, Hon Chung Hui, Robert Jordan, Richard L. Mackman, Jay P. Parrish, Adrian S. Ray, and Dustin Siegel, \"Methods for treating Filoviridae virus infections.\" U.S. Patent US9724360B2, issued August 8, 2017."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "General References",
+            "Description": "General References",
+            "DisplayControls": {
+              "ListType": "Numbered"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Warren TK, Jordan R, Lo MK, Ray AS, Mackman RL, Soloveva V, Siegel D, Perron M, Bannister R, Hui HC, Larson N, Strickley R, Wells J, Stuthman KS, Van Tongeren SA, Garza NL, Donnelly G, Shurtleff AC, Retterer CJ, Gharaibeh D, Zamani R, Kenny T, Eaton BP, Grimes E, Welch LS, Gomba L, Wilhelmsen CL, Nichols DK, Nuss JE, Nagle ER, Kugelman JR, Palacios G, Doerffler E, Neville S, Carra E, Clarke MO, Zhang L, Lew W, Ross B, Wang Q, Chun K, Wolfe L, Babusis D, Park Y, Stray KM, Trancheva I, Feng JY, Barauskas O, Xu Y, Wong P, Braun MR, Flint M, McMullan LK, Chen SS, Fearns R, Swaminathan S, Mayers DL, Spiropoulou CF, Lee WA, Nichol ST, Cihlar T, Bavari S: Therapeutic efficacy of the small molecule GS-5734 against Ebola virus in rhesus monkeys. Nature. 2016 Mar 17;531(7594):381-5. doi: 10.1038/nature17180. Epub 2016 Mar 2. [PMID:26934220]",
+                      "Markup": [
+                        {
+                          "Start": 828,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/26934220"
+                        },
+                        {
+                          "Start": 700,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-5734",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121304016"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Sheahan TP, Sims AC, Graham RL, Menachery VD, Gralinski LE, Case JB, Leist SR, Pyrc K, Feng JY, Trantcheva I, Bannister R, Park Y, Babusis D, Clarke MO, Mackman RL, Spahn JE, Palmiotti CA, Siegel D, Ray AS, Cihlar T, Jordan R, Denison MR, Baric RS: Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses. Sci Transl Med. 2017 Jun 28;9(396). pii: 9/396/eaal3653. doi: 10.1126/scitranslmed.aal3653. [PMID:28659436]",
+                      "Markup": [
+                        {
+                          "Start": 426,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/28659436"
+                        },
+                        {
+                          "Start": 274,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-5734",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121304016"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Agostini ML, Andres EL, Sims AC, Graham RL, Sheahan TP, Lu X, Smith EC, Case JB, Feng JY, Jordan R, Ray AS, Cihlar T, Siegel D, Mackman RL, Clarke MO, Baric RS, Denison MR: Coronavirus Susceptibility to the Antiviral Remdesivir (GS-5734) Is Mediated by the Viral Polymerase and the Proofreading Exoribonuclease. mBio. 2018 Mar 6;9(2). pii: mBio.00221-18. doi: 10.1128/mBio.00221-18. [PMID:29511076]",
+                      "Markup": [
+                        {
+                          "Start": 384,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/29511076"
+                        },
+                        {
+                          "Start": 229,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-5734",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121304016"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "de Wit E, Feldmann F, Cronin J, Jordan R, Okumura A, Thomas T, Scott D, Cihlar T, Feldmann H: Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection. Proc Natl Acad Sci U S A. 2020 Feb 13. pii: 1922083117. doi: 10.1073/pnas.1922083117. [PMID:32054787]",
+                      "Markup": [
+                        {
+                          "Start": 292,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32054787"
+                        },
+                        {
+                          "Start": 135,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GS-5734",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121304016"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Vander T, Medvedovsky M, Herishanu Y: Encephalopathy induced by oral acyclovir in a patient with normal renal function. J Infect. 2003 May;46(4):286. doi: 10.1053/jinf.2002.1119. [PMID:12799156]",
+                      "Markup": [
+                        {
+                          "Start": 180,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/12799156"
+                        },
+                        {
+                          "Start": 69,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acyclovir",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-135398513"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Ko WC, Rolain JM, Lee NY, Chen PL, Huang CT, Lee PI, Hsueh PR: Arguments in favor of remdesivir for treating SARS-CoV-2 infections. Int J Antimicrob Agents. 2020 Mar 5:105933. doi: 10.1016/j.ijantimicag.2020.105933. [PMID:32147516]",
+                      "Markup": [
+                        {
+                          "Start": 217,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32147516"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Grein J, Ohmagari N, Shin D, Diaz G, Asperges E, Castagna A, Feldt T, Green G, Green ML, Lescure FX, Nicastri E, Oda R, Yo K, Quiros-Roldan E, Studemeister A, Redinski J, Ahmed S, Bernett J, Chelliah D, Chen D, Chihara S, Cohen SH, Cunningham J, D'Arminio Monforte A, Ismail S, Kato H, Lapadula G, L'Her E, Maeno T, Majumder S, Massari M, Mora-Rillo M, Mutoh Y, Nguyen D, Verweij E, Zoufaly A, Osinusi AO, DeZure A, Zhao Y, Zhong L, Chokkalingam A, Elboudwarej E, Telep L, Timbs L, Henne I, Sellers S, Cao H, Tan SK, Winterbourne L, Desai P, Mera R, Gaggar A, Myers RP, Brainard DM, Childs R, Flanigan T: Compassionate Use of Remdesivir for Patients with Severe Covid-19. N Engl J Med. 2020 Apr 10. doi: 10.1056/NEJMoa2007016. [PMID:32275812]",
+                      "Markup": [
+                        {
+                          "Start": 728,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32275812"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Ledford H: Hopes rise on coronavirus drug remdesivir. Nature. 2020 Apr 29. pii: 10.1038/d41586-020-01295-8. doi: 10.1038/d41586-020-01295-8. [PMID:32350436]",
+                      "Markup": [
+                        {
+                          "Start": 142,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32350436"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Malin JJ, Suarez I, Priesner V, Fatkenheuer G, Rybniker J: Remdesivir against COVID-19 and Other Viral Diseases. Clin Microbiol Rev. 2020 Oct 14;34(1). pii: 34/1/e00162-20. doi: 10.1128/CMR.00162-20. Print 2020 Dec 16. [PMID:33055231]",
+                      "Markup": [
+                        {
+                          "Start": 220,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/33055231"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Gordon CJ, Tchesnokov EP, Woolner E, Perry JK, Feng JY, Porter DP, Gotte M: Remdesivir is a direct-acting antiviral that inhibits RNA-dependent RNA polymerase from severe acute respiratory syndrome coronavirus 2 with high potency. J Biol Chem. 2020 May 15;295(20):6785-6797. doi: 10.1074/jbc.RA120.013679. Epub 2020 Apr 13. [PMID:32284326]",
+                      "Markup": [
+                        {
+                          "Start": 325,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32284326"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Eastman RT, Roth JS, Brimacombe KR, Simeonov A, Shen M, Patnaik S, Hall MD: Remdesivir: A Review of Its Discovery and Development Leading to Emergency Use Authorization for Treatment of COVID-19. ACS Cent Sci. 2020 May 27;6(5):672-683. doi: 10.1021/acscentsci.0c00489. Epub 2020 May 4. [PMID:32483554]",
+                      "Markup": [
+                        {
+                          "Start": 287,
+                          "Length": 13,
+                          "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32483554"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "NIH: Clinical Trial NCT04252664",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 31,
+                          "URL": "https://clinicaltrials.gov/ct2/show/NCT04252664"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "NIH: Clinical Trial NCT04257656",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 31,
+                          "URL": "https://clinicaltrials.gov/ct2/show/NCT04257656"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "FDA: Emergency Use Authorization For Remdesivir",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 47,
+                          "URL": "https://www.fda.gov/media/137564/download"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "FDA: Emergency Use Authorization Information",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 44,
+                          "URL": "https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "FDA: Fact Sheet For Health Care Providers EUA of Remdesivir",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 59,
+                          "URL": "https://www.fda.gov/media/137566/download"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "FDA Press Announcement: FDA Approves Remdesivir for COVID-19",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 60,
+                          "URL": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "FDA Approved Drug Products: VEKLURY (remdesivir) injection",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 58,
+                          "URL": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/214787Orig1s000lbl.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "FDA: Emergency Use Authorization for Baricitinib in Combination with Remdesivir for COVID-19",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 92,
+                          "URL": "https://www.fda.gov/media/143822/download"
+                        },
+                        {
+                          "Start": 37,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Baricitinib",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44205240"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/knowledge-panels",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-'gene' pairs mentioned together in scientific articles. Note that a co-occurring 'gene' entity is organism non-specific and could refer to a gene, protein, or enzyme. This may suggest an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/knowledge-panels",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.genesymbol"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/knowledge-panels",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "A PubChem summary page displays Patent information when available for the given molecule.",
+        "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/patents",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers and more information provided by depositors in form of a widget.",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 28,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/121304016/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "WIPO PATENTSCOPE",
+            "Description": "Use the provided link to show patents associated with this chemical structure in WIPO's PATENTSCOPE system.",
+            "URL": "https://patentscope.wipo.int/",
+            "Information": [
+              {
+                "ReferenceNumber": 38,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Patents are available for this chemical structure:"
+                    },
+                    {
+                      "String": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=RWWYLEGWBNMMLJ-YSOARWBDSA-N",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 86,
+                          "URL": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=RWWYLEGWBNMMLJ-YSOARWBDSA-N"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Orange Book Patents",
+            "Description": "This section includes the patent information from the FDA Orange Book.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 3
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10065958.PN.&OS=PN/10065958&RS=PN/10065958",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "10065958"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Sep 16, 2031"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "GILEAD SCIENCES INC"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N214787 (Prescription Drug: VEKLURY. Ingredients: REMDESIVIR)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=214787"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10675296.PN.&OS=PN/10675296&RS=PN/10675296",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "10675296"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Jul 10, 2038"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "GILEAD SCIENCES INC"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N214787 (Prescription Drug: VEKLURY. Ingredients: REMDESIVIR)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=214787"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10695361.PN.&OS=PN/10695361&RS=PN/10695361",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "10695361"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Sep 16, 2036"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "GILEAD SCIENCES INC"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N214787 (Prescription Drug: VEKLURY. Ingredients: REMDESIVIR)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=214787"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 16,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8008264.PN.&OS=PN/8008264&RS=PN/8008264",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "8008264"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 16,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Sep 6, 2029"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 16,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "GILEAD SCIENCES INC"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 16,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N214787 (Prescription Drug: VEKLURY. Ingredients: REMDESIVIR)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=214787"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8318682.PN.&OS=PN/8318682&RS=PN/8318682",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "8318682"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Apr 22, 2029"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "GILEAD SCIENCES INC"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N214787 (Prescription Drug: VEKLURY. Ingredients: REMDESIVIR)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=214787"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 18,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9724360.PN.&OS=PN/9724360&RS=PN/9724360",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "9724360"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 18,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Oct 29, 2035"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 18,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "GILEAD SCIENCES INC"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 18,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N214787 (Prescription Drug: VEKLURY. Ingredients: REMDESIVIR)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=214787"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9949994.PN.&OS=PN/9949994&RS=PN/9949994",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "9949994"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Oct 29, 2035"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "GILEAD SCIENCES INC"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N214787 (Prescription Drug: VEKLURY. Ingredients: REMDESIVIR)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=214787"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 20,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=RE46762.PN.&OS=PN/RE46762&RS=PN/RE46762",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "RE46762"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 20,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Apr 22, 2029"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 20,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "GILEAD SCIENCES INC"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 20,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N214787 (Prescription Drug: VEKLURY. Ingredients: REMDESIVIR)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=214787"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biomolecular Interactions and Pathways",
+        "Description": "A PubChem summary page displays biomolecular interactions and pathways information when available for the given record.",
+        "Section": [
+          {
+            "TOCHeading": "Drug-Gene Interactions",
+            "Description": "Drug-gene interactions provided by the Drug Gene Interaction Database (DGIdb)",
+            "Information": [
+              {
+                "ReferenceNumber": 6,
+                "Value": {
+                  "ExternalTableName": "collection=dgidb&view=concise_cid"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Pathways",
+            "Description": "Pathways that include the compound as a component.",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Value": {
+                  "ExternalTableName": "collection=pathway&core=1"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biological Test Results",
+        "Description": "A PubChem substance or compound summary page displays biological test results from the PubChem BioAssay database, if/as available, for the chemical structure currently displayed. (Note that you can embed biological test results displays within your own web pages, for a PubChem Compound or Substance of interest, by using the BioActivity Widget.)",
+        "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/bioassays",
+        "Section": [
+          {
+            "TOCHeading": "BioAssay Results",
+            "Description": "BioActivity information showed in tabular widget.",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Value": {
+                  "ExternalTableName": "bioactivity"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "Classification systems from MeSH, ChEBI, Kegg, etc.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/classification",
+        "Section": [
+          {
+            "TOCHeading": "Ontologies",
+            "Description": "Ontologies",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Tree",
+                "Description": "MeSH tree",
+                "Information": [
+                  {
+                    "ReferenceNumber": 30,
+                    "Name": "HID",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEBI Ontology",
+                "Description": "ChEBI Ontology tree",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Name": "HID",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=2",
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "KEGG: Drug",
+                "Description": "KEGG : Drug tree",
+                "Information": [
+                  {
+                    "ReferenceNumber": 32,
+                    "Name": "HID",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=14",
+                    "Value": {
+                      "Number": [
+                        14
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChemIDplus",
+                "Description": "ChemIDplus tree",
+                "Information": [
+                  {
+                    "ReferenceNumber": 35,
+                    "Name": "HID",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                    "Value": {
+                      "Number": [
+                        84
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UN GHS Classification",
+                "Description": "The United Nations' Globally Harmonized System of Classification and Labelling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Name": "HID",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=83",
+                    "Value": {
+                      "Number": [
+                        83
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "ChEBI",
+        "SourceID": "CHEBI:OBO:121304016",
+        "Name": "Remdesivir",
+        "Description": "Chemical Entities of Biological Interest (ChEBI) is a database and ontology of molecular entities focused on 'small' chemical compounds, that is part of the Open Biomedical Ontologies effort. The term \"molecular entity\" refers to any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer, etc., identifiable as a separately distinguishable entity.",
+        "URL": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:145994",
+        "ANID": 9131215
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "DrugBank",
+        "SourceID": "DB14761",
+        "Name": "Remdesivir",
+        "Description": "The DrugBank database is a unique bioinformatics and cheminformatics resource that combines detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information.",
+        "URL": "https://www.drugbank.ca/drugs/DB14761",
+        "LicenseNote": "Creative Common's Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/legalcode)",
+        "LicenseURL": "https://www.drugbank.ca/legal/terms_of_use",
+        "ANID": 8176642
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "LiverTox",
+        "SourceID": "Remdesivir",
+        "Name": "Remdesivir",
+        "Description": "LIVERTOX provides up-to-date, accurate, and easily accessed information on the diagnosis, cause, frequency, patterns, and management of liver injury attributable to prescription and nonprescription medications, herbals and dietary supplements.",
+        "URL": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Remdesivir/",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 9447470
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "C152185_805",
+        "Name": "Remdesivir",
+        "Description": "NCI Thesaurus (NCIt) provides reference terminology for many systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=NCI_Thesaurus&code=C152185",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+        "ANID": 10837333
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChemIDplus",
+        "SourceID": "1809249373",
+        "Name": "Remdesivir [USAN]",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://chem.nlm.nih.gov/chemidplus/sid/1809249373",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 1148235
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "ClinicalTrials.gov",
+        "SourceID": "cid121304016",
+        "Description": "ClinicalTrials.gov is an NIH registry and results database of publicly and privately supported clinical studies of human participants conducted around the world.",
+        "URL": "https://clinicaltrials.gov/",
+        "LicenseNote": "The ClinicalTrials.gov data carry an international copyright outside the United States and its Territories or Possessions. Some ClinicalTrials.gov data may be subject to the copyright of third parties; you should consult these entities for any additional terms of use.",
+        "LicenseURL": "https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use",
+        "ANID": 5194495
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "Comparative Toxicogenomics Database (CTD)",
+        "SourceID": "C000606551::Compound",
+        "Description": "CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health.",
+        "URL": "http://ctdbase.org/detail.go?type=chem&acc=C000606551",
+        "LicenseNote": "It is to be used only for research and educational purposes. Any reproduction or use for commercial purpose is prohibited without the prior express written permission of the MDI Biological Laboratory and NC State University.",
+        "LicenseURL": "http://ctdbase.org/about/legal.jsp",
+        "ANID": 9012406
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "DailyMed",
+        "SourceID": "REMDESIVIR",
+        "Name": "REMDESIVIR",
+        "Description": "DailyMed provides trustworthy information about marketed drugs in the United States. DailyMed is the official provider of FDA label information (package inserts).",
+        "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=REMDESIVIR",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 9448090
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "Drug Gene Interaction database (DGIdb)",
+        "SourceID": "REMDESIVIR",
+        "Description": "The Drug Gene Interaction Database (DGIdb, www.dgidb.org) is a web resource that consolidates disparate data sources describing drug - gene interactions and gene druggability.",
+        "URL": "https://www.dgidb.org/drugs/REMDESIVIR",
+        "LicenseNote": "The data used in DGIdb is all open access and where possible made available as raw data dumps in the downloads section.",
+        "LicenseURL": "http://www.dgidb.org/downloads",
+        "ANID": 9298545
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "European Medicines Agency (EMA)",
+        "SourceID": "EMEA/H/C/005622_1",
+        "Name": "Veklury (EMEA/H/C/005622)",
+        "Description": "The European Medicines Agency (EMA) presents information on regulatory topics of the medicinal product lifecycle in EU countries.",
+        "URL": "https://www.ema.europa.eu/en/medicines/human/EPAR/veklury",
+        "LicenseNote": "Information on the European Medicines Agency's (EMA)  website is subject to a disclaimer and copyright and limited reproduction notices.",
+        "LicenseURL": "https://www.ema.europa.eu/en/about-us/legal-notice",
+        "ANID": 9157347
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "European Medicines Agency (EMA)",
+        "SourceID": "P/0201/2020_1",
+        "Name": "remdesivir (P/0201/2020)",
+        "Description": "The European Medicines Agency (EMA) presents information on regulatory topics of the medicinal product lifecycle in EU countries.",
+        "URL": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-002826-pip01-20",
+        "LicenseNote": "Information on the European Medicines Agency's (EMA)  website is subject to a disclaimer and copyright and limited reproduction notices.",
+        "LicenseURL": "https://www.ema.europa.eu/en/about-us/legal-notice",
+        "ANID": 9157471
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "EU Clinical Trials Register",
+        "SourceID": "cid121304016",
+        "Description": "The EU Clinical Trials Register contains information on interventional clinical trials on medicines conducted in the European Union (EU), or the European Economic Area (EEA) which started after 1 May 2004.",
+        "URL": "https://www.clinicaltrialsregister.eu/",
+        "ANID": 8794911
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "European Chemicals Agency (ECHA)",
+        "SourceID": "298889",
+        "Name": "2-ethylbutyl (2S)-2-[[[(2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxyoxolan-2-yl]methoxy-phenoxyphosphoryl]amino]propanoate",
+        "Description": "The information provided here is aggregated from the \"Notified classification and labelling\" from ECHA's C&L Inventory. Read more: https://echa.europa.eu/information-on-chemicals/cl-inventory-database",
+        "URL": "https://echa.europa.eu/information-on-chemicals/cl-inventory-database/-/discli/details/298889",
+        "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+        "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+        "ANID": 8940159
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "FDA Drugs",
+        "SourceID": "org_121304016",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/Drugs/InformationOnDrugs/ucm129662.htm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 9448066
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "FDA Drugs",
+        "SourceID": "orgp_10065958",
+        "Name": "Patent:10065958",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/Drugs/InformationOnDrugs/ucm129662.htm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 10842002
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "FDA Drugs",
+        "SourceID": "orgp_10675296",
+        "Name": "Patent:10675296",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/Drugs/InformationOnDrugs/ucm129662.htm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 10842006
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "FDA Drugs",
+        "SourceID": "orgp_10695361",
+        "Name": "Patent:10695361",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/Drugs/InformationOnDrugs/ucm129662.htm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 10842007
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "FDA Drugs",
+        "SourceID": "orgp_8008264",
+        "Name": "Patent:8008264",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/Drugs/InformationOnDrugs/ucm129662.htm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 10842037
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "FDA Drugs",
+        "SourceID": "orgp_8318682",
+        "Name": "Patent:8318682",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/Drugs/InformationOnDrugs/ucm129662.htm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 10842038
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "FDA Drugs",
+        "SourceID": "orgp_9724360",
+        "Name": "Patent:9724360",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/Drugs/InformationOnDrugs/ucm129662.htm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 10842042
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "FDA Drugs",
+        "SourceID": "orgp_9949994",
+        "Name": "Patent:9949994",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/Drugs/InformationOnDrugs/ucm129662.htm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 10842043
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "FDA Drugs",
+        "SourceID": "orgp_RE46762",
+        "Name": "Patent:RE46762",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/Drugs/InformationOnDrugs/ucm129662.htm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 10842044
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "FDA/SPL Indexing Data",
+        "SourceID": "3QKI37EEHE",
+        "Name": "3QKI37EEHE",
+        "Description": "The UNique Ingredient Identifier (UNII) is an alphanumeric substance identifier from the joint FDA/USP Substance Registration System (SRS).",
+        "URL": "https://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5872336
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "PubChem",
+        "SourceID": "covid19_l_442",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov",
+        "ANID": 9027061
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "Springer Nature",
+        "SourceID": "42056516-976615824",
+        "Description": "Literature references related to scientific contents from Springer Nature journals and books. Read more: https://link.springer.com/",
+        "ANID": 7690027
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "Thieme Chemistry",
+        "SourceID": "42056516-976550796",
+        "Description": "Literature references related to scientific contents from Thieme journals and books. Read more: http://www.thieme-chemistry.com",
+        "LicenseNote": "The Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "ANID": 9350840
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "Wikipedia",
+        "SourceID": "Q28209496",
+        "Name": "remdesivir",
+        "Description": "Link to the compound information in Wikipedia.",
+        "URL": "https://en.wikipedia.org/wiki/Remdesivir",
+        "ANID": 8708129
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "MeSH",
+        "SourceID": "2012496",
+        "Name": "remdesivir",
+        "URL": "https://www.ncbi.nlm.nih.gov/mesh/2012496"
+      },
+      {
+        "ReferenceNumber": 30,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "http://www.nlm.nih.gov/mesh/meshhome.html"
+      },
+      {
+        "ReferenceNumber": 31,
+        "SourceName": "ChEBI",
+        "SourceID": "OBO",
+        "Name": "ChEBI Ontology",
+        "Description": "The ChEBI Ontology is a structured classification of the entities contained within ChEBI.",
+        "URL": "http://www.ebi.ac.uk/chebi/userManualForward.do#ChEBI%20Ontology"
+      },
+      {
+        "ReferenceNumber": 32,
+        "SourceName": "KEGG",
+        "SourceID": "br08301",
+        "Name": "Therapeutic category of drugs in Japan",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08301.keg"
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "UN Globally Harmonized System of Classification and Labelling of Chemicals (GHS)",
+        "SourceID": "UN_GHS_tree",
+        "Name": "GHS Classification Tree",
+        "Description": "The United Nations' Globally Harmonised System of Classification and Labelling of Chemicals (GHS) provides a harmonised basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures. It sets up criteria for the classification of chemicals for physical-chemical, health, and environmental hazards of chemical substances and mixtures and sets up standardised hazard information to facilitate global trade of chemicals.",
+        "URL": "http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html"
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology Data NETwork) databases that contain chemicals and drugs related information. It is managed by the Toxicology and Environmental Health Information Program (TEHIP) in the Division of Specialized Information Services (SIS) of the National Library of Medicine (NLM).",
+        "URL": "https://chem.nlm.nih.gov/chemidplus/",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 36,
+        "SourceName": "MeSH",
+        "SourceID": "68000963",
+        "Name": "Antimetabolites",
+        "URL": "https://www.ncbi.nlm.nih.gov/mesh/68000963"
+      },
+      {
+        "ReferenceNumber": 37,
+        "SourceName": "MeSH",
+        "SourceID": "68000998",
+        "Name": "Antiviral Agents",
+        "URL": "https://www.ncbi.nlm.nih.gov/mesh/68000998"
+      },
+      {
+        "ReferenceNumber": 38,
+        "SourceName": "PATENTSCOPE (WIPO)",
+        "Name": "SID 394558061",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/394558061"
+      }
+    ]
+  }
+}
