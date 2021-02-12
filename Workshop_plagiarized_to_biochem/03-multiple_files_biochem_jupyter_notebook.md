@@ -19,11 +19,11 @@ keypoints:
 
 In our previous lesson, we parsed values from output files.  While you might have seen the utility of doing such a thing, you might have also wondered why we didn't just search the file and cut and paste the values we wanted into a spreadsheet.  If you only have 1 or 2 files, this might be a very reasonable thing to do.  But what if you had 100 files to analyze?  What if you had 1000?  In such a case the cutting and pasting method would be very tedious and time consuming.  
 
-One of the real powers of writing a program to analyze your data is that you can just as easily analyze 100 files as 1 file.  In this example, we are going to parse the output files for a whole series of aliphatic alcohol compounds and parse the energy value for each one.  The output files are all saved in a folder called outfiles that you should have downloaded in the setup for this lesson.  Make sure the folder is in the same directory as the directory where you are writing and executing your code.
+One of the real powers of writing a program to analyze your data is that you can just as easily analyze 100 files as 1 file.  In this example, we are going to parse the output files for a several of the latest entires to the [Protein Data Bank](https://www.rcsb.org/) and extract resolution data and atom counts for each one.  The output files are all saved in a folder called PDB_files that you should have downloaded in the setup for this lesson.  Make sure the folder is in the same directory as the directory where you are writing and executing your code.
 
-To analyze multiple files, we will need to import a python **library**.  A **library** is a set of modules which contain functions. The functions within a library or module are usually related to one another. Using libraries and in Python reduces the amount of code you have to write. In the last lesson, we imported `os.path`, which was a module that handled filepaths for us.
+To analyze multiple files, we will need to import a python **library**.  A **library** is a set of modules which contain functions. The functions within a library or module are usually related to one another. Using libraries in Python reduces the amount of code you have to write. In the last lesson, we imported `os.path`, which was a module that handled filepaths for us.
 
-In this lesson, we will be using the `glob` library, which will help us read in multiple files from our computer.  Within a library there are  modules and functions which do a specific computational task.  Usually a function has some type of input and gives a particular output.  To use a function that is in a library, you often use the dot notation introduced in the previous lesson.  In general
+In this lesson, we will be using the `glob` library, which will help us read in multiple files from our computer.  Within a library there are modules and functions which do a specific computational task.  Usually a function has some type of input and gives a particular output.  To use a function that is in a library, you often use the dot notation introduced in the previous lesson.  In general
 ```
 import library_name
 output = library_name.funtion_name(input)
@@ -34,11 +34,11 @@ We are going to import two libraries.  One is the `os` library which controls fu
 
 >## Exercise
 >
-> How would you use the `os.path` module to point to the directory where your outfiles are?
+> How would you use the `os.path` module to point to the directory where your PDB files are located?
 >
 >> ## Solution
 >> ~~~
->> outfile_directory = os.path.join('data', 'outfiles')
+>> outfile = os.path.join('data', 'PDB_files')
 >> ~~~
 >> {: .language-python}
 > {: .solution}
@@ -47,16 +47,16 @@ We are going to import two libraries.  One is the `os` library which controls fu
 In order to get all of the files which match a specific pattern, we will use the wildcard character `*`.
 
 ```
-file_location = os.path.join('data', 'outfiles', '*.out')
+file_location = os.path.join('data', 'PDB_files', '*.pdb')
 print(file_location)
 ```
 {: .language-python}
 ```
-data/outfiles/*.out
+data/PDB_files/*.pdb
 ```
 {: .output}
 
-This specifies that we want to look for all the files in a directory called `data/outfiles` that end in ".out".  The * is the wildcard character which matches any character.  
+This specifies that we want to look for all the files in a directory called `data/PDB_files` that end in ".pdb".  The * is the wildcard character which matches any character.  
 
 Next we are going to use a function called `glob` in the library called `glob`.  It is a little confusing since the function and the library have the same name, but we will see other examples where this is not the case later.  The output of the function `glob` is a list of all the filenames that fit the pattern specified in the input.   The input is the file location.
 ```
@@ -66,36 +66,37 @@ print(filenames)
 ```
 {: .language-python}
 ```
-['data/outfiles/butanol.out', 'data/outfiles/decanol.out', 'data/outfiles/ethanol.out', 'data/outfiles/heptanol.out', 'data/outfiles/hexanol.out', 'data/outfiles/methanol.out', 'data/outfiles/nonanol.out', 'data/outfiles/octanol.out', 'data/outfiles/pentanol.out', 'data/outfiles/propanol.out']
+['data/PDB_files/6l35.pdb', 'data/PDB_files/7tim.pdb', 'data/PDB_files/4eyr.pdb', 'data/PDB_files/4ezi.pdb', 'data/PDB_files/7l1f.pdb', 'data/PDB_files/6vqs.pdb', 'data/PDB_files/7bgj.pdb', 'data/PDB_files/7bfv.pdb', 'data/PDB_files/1vxh.pdb', 'data/PDB_files/7dno.pdb', 'data/PDB_files/6lsv.pdb']
 ```
 {: .output}
 
-This will give us a list of all the files which end in `*.out` in the `outfiles` directory. Now if we want to parse every file we just read in, we will use a `for` loop to go through each file.
+This will give us a list of all the files which end in `*.pdb` in the `PDB_files` directory. Now if we want to parse every file we just read in, we will use a `for` loop to go through each file.
 ```
 for f in filenames:
     outfile = open(f,'r')
     data = outfile.readlines()
     outfile.close()
     for line in data:
-        if 'Final Energy' in line:
-            energy_line = line
-            words = energy_line.split()
-            energy = float(words[3])
-            print(energy)
+        if 'RESOLUTION.' in line:
+            res_line = line
+            words = res_line.split()
+            resolution = float(words[3])
+            print(resolution)
 ```
 {: .language-python}
 
 ```
--232.1655798347283
--466.3836241400086
--154.09130176573018
--349.27397687072676
--310.2385332251633
--115.04800861868374
--427.3465180082815
--388.3110864554743
--271.20138119895074
--193.12836249728798
+3.23
+1.9
+1.8
+1.15
+3.89
+2.38
+6.9
+1.84
+1.7
+2.03
+2.65
 ```
 {: .output}
 
@@ -115,14 +116,14 @@ print(file_name)
 {: .language-python}
 
 ~~~
-data/outfiles/propanol.out
-propanol.out
+data/PDB_files/6l35.pdb
+6l35.pdb
 ~~~
 {: .output}
 
 > ## Exercise
 >
-> How would you extract the molecule name from the example above?
+> How would you extract the PDB ID from the example above?
 >
 >> ## Solution
 >> You can use the `str.split` function introduced in the last lesson, and split at the '.' character.
@@ -135,13 +136,13 @@ propanol.out
 > {: .solution}
 {: .challenge}
 
-Using the solution above, we can modify our loop so that it prints the file name along with each energy value.
+Using the solution above, we can modify our loop so that it prints the file name along with each resolution value.
 
 ~~~
 for f in filenames:
     # Get the molecule name
     file_name = os.path.basename(f)
-    split_filname = file_name.split('.')
+    split_filename = file_name.split('.')
     molecule_name = split_filename[0]
 
     # Read the data
@@ -173,7 +174,7 @@ nonanol -427.3465180082815
 ~~~
 {: .output}
 
-
+## Start Here. PAC 12Feb2021
 ## Printing to a File
 Finally, it might be useful to print our results in a new file, such that we could share our results with colleagues or or e-mail them to our advisor.  Much like when we read in a file, the first step to writing output to a file is opening that file for writing.  In general to open a file for writing you use the syntax
 ```
