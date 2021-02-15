@@ -260,7 +260,7 @@ You can complete this assignment to test your skills. This project should be use
 
 >>It can be helpful when you code to write out these steps and work on it in pieces. Try to write the code using these steps. Note that as you write the code, you may come up with other steps! 
 >> First, thing about what you have to do for step 1, and write the code for that. Next, think about how you would do step 2 and write the code for that. You can troubleshoot each step using print statments. 
->> The steps build on each other, so you can work on getting each piece written before moving on to the next
+>> The steps build on each other, so you can work on getting each piece written before moving on to the next. 
 >> 
 >> ## Solution
 >> ~~~
